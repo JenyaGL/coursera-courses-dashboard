@@ -1,0 +1,126 @@
+,skill_name,skill_id
+0,Network Security,1
+1,Python Programming,2
+2,Linux,3
+3,Cloud Computing,4
+4,Audit,5
+5,Computer Programming,6
+6,Computer Security Incident Management,7
+7,Cryptography,8
+8,Databases,9
+9,Leadership and Management,10
+10,Network Architecture,11
+11,Risk Management,12
+12,SQL,13
+13,Data Analysis,14
+14,R Programming,15
+15,SQL,16
+16,Spreadsheet Software,17
+17,Business Analysis,18
+18,Business Communication,19
+19,Data Visualization,20
+20,Data Management,21
+21,General Statistics,22
+22,Big Data,23
+23,Communication,24
+24,Data Science,25
+25,Data Visualization Software,26
+26,Exploratory Data Analysis,27
+27,Extract,28
+28,Transform,29
+29,Load,30
+30,Microsoft Excel,31
+31,Problem Solving,32
+32,Small Data,33
+33,Statistical Programming,34
+34,Tableau Software,35
+35,Project Management,36
+36,Strategy and Operations,37
+37,Collaboration,38
+38,Agile Software Development,39
+39,Software Engineering,40
+40,Entrepreneurship,41
+41,Scrum (Software Development),42
+42,Planning,43
+43,Supply Chain and Logistics,44
+44,Change Management,45
+45,Finance,46
+46,Organizational Development,47
+47,Product Management,48
+48,Budget Management,49
+49,Influencing,50
+50,Culture,51
+51,Emotional Intelligence,52
+52,People Management,53
+53,Procurement,54
+54,Digital Marketing,55
+55,Marketing,56
+56,Marketing Management,57
+57,Media Strategy & Planning,58
+58,Sales,59
+59,E-Commerce,60
+60,Data Analysis,61
+61,Social Media,62
+62,Search Engine Optimization,63
+63,Advertising,64
+64,Persona Research,65
+65,Strategy,66
+66,Web Design,67
+67,Web Development,68
+68,Web Development Tools,69
+69,Writing,70
+70,Market Analysis,71
+71,Computer Networking,72
+72,Network Analysis,73
+73,Networking Hardware,74
+74,Network Model,75
+75,Critical Thinking,76
+76,Computer Architecture,77
+77,Network Security,78
+78,Accounting,79
+79,Human Computer Interaction,80
+80,Operating Systems,81
+81,System Security,82
+82,Customer Support,83
+83,User Experience,84
+84,User Experience Design,85
+85,User Research,86
+86,Product Design,87
+87,Product Development,88
+88,Visual Design,89
+89,Web Development Tools,90
+90,Machine Learning,91
+91,Machine Learning Algorithms,92
+92,Applied Machine Learning,93
+93,Algorithms,94
+94,Deep Learning,95
+95,Machine Learning Software,96
+96,Artificial Neural Networks,97
+97,Human Learning,98
+98,Regression,99
+99,Statistical Machine Learning,100
+100,Mathematics,101
+101,Tensorflow,102
+102,Reinforcement Learning,103
+103,Critical Thinking,104
+104,Python Programming,105
+105,Machine Learning,106
+106,Professional Development,107
+107,Data Mining,108
+108,Data Model,109
+109,IBM Cloud,110
+110,Plot (Graphics),111
+111,Probability & Statistics,112
+112,Writing,113
+113,Computer Vision,114
+114,Natural Language Processing,115
+115,Mathematical Theory & Analysis,116
+116,Linear Algebra,117
+117,Calculus,118
+118,Statistical Visualization,119
+119,Human Resources,120
+120,NoSQL,121
+121,Interactive Data Visualization,122
+122,Regression,123
+123,Software Testing,124
+124,Application Development,125

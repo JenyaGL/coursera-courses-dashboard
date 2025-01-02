@@ -1,0 +1,1009 @@
+course_id,title,organization
+1,Google Cybersecurity,Google
+2,Google Data Analytics,Google
+3,Google Project Management:,Google
+4,Google Digital Marketing & E-commerce,Google
+5,Google IT Support,Google
+6,Machine Learning,Multiple educators
+7,Google UX Design,Google
+8,Google AI Essentials,Google
+9,IBM Data Science,IBM
+10,Deep Learning,DeepLearning.AI
+11,IBM Data Analyst,IBM
+12,IBM Generative AI Engineering,IBM
+13,IBM AI Developer,IBM
+14,Data Science Foundations,Multiple educators
+15,IBM Full Stack Software Developer,IBM
+16,IBM DevOps and Software Engineering,IBM
+17,Microsoft Power BI Data Analyst,Microsoft
+18,AI in Healthcare,Stanford University
+19,AI For Everyone,DeepLearning.AI
+20,Google Advanced Data Analytics,Google
+21,Data Science Fundamentals with Python and SQL,IBM
+22,IBM Back-End Development,IBM
+23,Introduction to Data Science,IBM
+24,Business Foundations,University of Pennsylvania
+25,Applied Software Engineering Fundamentals,IBM
+26,IBM Data Engineering,IBM
+27,Applied Data Science,IBM
+28,IBM AI Product Manager,IBM
+29,Foundations of Project Management,Google
+30,"Foundations: Data, Data, Everywhere",Google
+31,Google Prompting Essentials,Google
+32,Data Engineering Foundations,IBM
+33,Key Technologies for Business,IBM
+34,Foundations of Cybersecurity,Google
+35,IBM Data Analytics with Excel and R,IBM
+36,Supervised Machine Learning: Regression and Classification,DeepLearning.AI
+37,Data Analysis and Visualization Foundations,IBM
+38,Meta Front-End Developer,Meta
+39,IBM & Darden Digital Strategy,University of Virginia Darden School Foundation
+40,Python for Everybody,University of Michigan
+41,Introduction to Finance and Accounting,University of Pennsylvania
+42,IBM AI Foundations for Business,IBM
+43,Finance & Quantitative Modeling for Analysts,University of Pennsylvania
+44,Google IT Automation with Python,Google
+45,AI Foundations for Everyone,IBM
+46,IBM Full-Stack JavaScript Developer,IBM
+47,Meta Social Media Marketing,Meta
+48,AI For Business,University of Pennsylvania
+49,Generative AI for Software Development,DeepLearning.AI
+50,IBM Back-end JavaScript Developer,IBM
+51,Generative AI with Large Language Models,DeepLearning.AI
+52,Technical Support Fundamentals,Google
+53,IBM AI Engineering,IBM
+54,IBM Front-End Developer,IBM
+55,IBM iOS and Android Mobile App Developer,IBM
+56,IBM Data Management,IBM
+57,IBM IT Project Manager,IBM
+58,IBM and ISC2 Cybersecurity Specialist,Multiple educators
+59,Foundations of Digital Marketing and E-commerce,Google
+60,Mathematics for Machine Learning and Data Science,DeepLearning.AI
+61,DeepLearning.AI Data Engineering,Multiple educators
+62,Business and Financial Modeling,University of Pennsylvania
+63,Generative AI for Everyone,DeepLearning.AI
+64,IBM Business Intelligence (BI) Analyst,IBM
+65,IBM IT Scrum Master,IBM
+66,IBM Business Analyst,IBM
+67,Generative AI for Data Scientists,IBM
+68,Generative AI for Product Managers,IBM
+69,Generative AI for Data Analysts,IBM
+70,Meta React Native,Meta
+71,Generative AI Fundamentals,IBM
+72,Intuit Academy Bookkeeping,Intuit
+73,Generative AI for Software Developers,IBM
+74,Financial Markets,Yale University
+75,IBM Generative AI for Cybersecurity Professionals,IBM
+76,Generative AI for Human Resources (HR) Professionals,IBM
+77,Introduction to Generative AI Learning Path,Google Cloud
+78,Generative AI for Project Managers,IBM
+79,Play It Safe: Manage Security Risks,Google
+80,Generative AI for Data Engineers,IBM
+81,Generative AI for Business Intelligence (BI) Analysts,IBM
+82,Generative AI Automation,Vanderbilt University
+83,Prompt Engineering,Vanderbilt University
+84,AI Python for Beginners,DeepLearning.AI
+85,Ask Questions to Make Data-Driven Decisions,Google
+86,Project Initiation: Starting a Successful Project,Google
+87,SAP Technology Consultant,SAP
+88,ChatGPT: Master Free AI Tools to Supercharge Productivity,Vanderbilt University
+89,Generative AI Assistants,Vanderbilt University
+90,Indigenous Canada,University of Alberta
+91,Agentic AI and AI Agents for Leaders,Vanderbilt University
+92,Generative AI Leadership & Strategy,Vanderbilt University
+93,"ChatGPT: Excel at Personal Automation with GPTs, AI & Zapier",Vanderbilt University
+94,Prompt Engineering for Law,Vanderbilt University
+95,Meta Android Developer,Meta
+96,ChatGPT + Excel: AI-Enhanced Data Analysis & Insight,Vanderbilt University
+97,Foundations of User Experience (UX) Design,Google
+98,Business Analytics,University of Pennsylvania
+99,Prompt Engineering for Educators,Vanderbilt University
+100,IBM Product Manager,IBM
+101,Meta iOS Developer,Meta
+102,ChatGPT for Project Management - Leveraging AI for Success,Vanderbilt University
+103,Foundations of Positive Psychology,University of Pennsylvania
+104,Meta Back-End Developer,Meta
+105,DeepLearning.AI TensorFlow Developer,DeepLearning.AI
+106,ChatGPT + Zapier: AI-Powered Email Mastery,Vanderbilt University
+107,Natural Language Processing,DeepLearning.AI
+108,Fintech: Foundations & Applications of Financial Technology,University of Pennsylvania
+109,Master Microsoft Office 365 and Power Platform,Microsoft
+110,IBM IT Support,IBM
+111,Arizona State University TESOL,Arizona State University
+112,IBM Cybersecurity Analyst,IBM
+113,Google Business Intelligence,Google
+114,HRCI Human Resource Associate,HRCI
+115,Information Technology (IT) and Cloud Fundamentals,IBM
+116,Microsoft 365 Fundamentals,Microsoft
+117,"BI Foundations with SQL, ETL and Data Warehousing",IBM
+118,Advanced Learning Algorithms,DeepLearning.AI
+119,"DevOps, Cloud, and Agile Foundations",IBM
+120,Connect and Protect: Networks and Network Security,Google
+121,Become a CBRS Certified Professional Installer by Google,Google - Spectrum Sharing
+122,Microsoft Business Analyst,Microsoft
+123,IBM Data Warehouse Engineer,IBM
+124,Meta Database Engineer,Meta
+125,Business Strategy,University of Virginia
+126,Generative AI Engineering with LLMs,IBM
+127,Cloud Application Development Foundations,IBM
+128,Neural Networks and Deep Learning,DeepLearning.AI
+129,The Bits and Bytes of Computer Networking,Google
+130,Data Analysis and Presentation Skills: the PwC Approach,PwC
+131,IBM Project Manager,IBM
+132,IBM Applied DevOps Engineering,IBM
+133,Leading the Modern Day Business,University of Virginia
+134,Prepare Data for Exploration,Google
+135,Digital Product Management,University of Virginia
+136,The Materiality of ESG Factors,University of Pennsylvania
+137,"TESOL Certificate, Part 1: Teach English Now!",Arizona State University
+138,Regulatory Compliance,University of Pennsylvania
+139,Introduction to Psychology,Yale University
+140,Digital Marketing,University of Illinois Urbana-Champaign
+141,Project Planning: Putting It All Together,Google
+142,Introduction to Statistics,Stanford University
+143,Attract and Engage Customers with Digital Marketing,Google
+144,Excel Skills for Business,Macquarie University
+145,Microsoft Cloud Support Associate,Microsoft
+146,Certified in Cybersecurity,ISC2
+147,Microsoft IT Support Specialist,Microsoft
+148,Entrepreneurship,University of Pennsylvania
+149,Meta Marketing Analytics,Meta
+150,Introduction to Programming with Python and Java,University of Pennsylvania
+151,Microsoft Project Management,Microsoft
+152,Tools of the Trade: Linux and SQL,Google
+153,Improve Your English Communication Skills,Georgia Institute of Technology
+154,"IBM Deep Learning with PyTorch, Keras and Tensorflow",IBM
+155,Preparing for Google Cloud Certification: Machine Learning Engineer,Google Cloud
+156,Writing in the Sciences,Stanford University
+157,Cybersecurity Fundamentals,IBM
+158,Preparing for Google Cloud Certification: Cloud Engineer,Google Cloud
+159,Preparing for Google Cloud Certification: Cloud Architect,Google Cloud
+160,Process Data from Dirty to Clean,Google
+161,Agile Project Management,Google
+162,"Start the UX Design Process: Empathize, Define, and Ideate",Google
+163,Architecting with Google Compute Engine,Google Cloud
+164,Google Cloud Cybersecurity,Google Cloud
+165,Preparing for Google Cloud Certification: Cloud Developer,Google Cloud
+166,IBM Machine Learning,IBM
+167,The Science of Well-Being,Yale University
+168,Construction Management,Columbia University
+169,Google Cloud Database Engineer,Google Cloud
+170,Graphic Design,California Institute of the Arts
+171,ADP Entry-Level Payroll Specialist,"Automatic Data Processing, Inc. (ADP)"
+172,Think like a CFO,IESE Business School
+173,Project Execution: Running the Project,Google
+174,Learn SQL Basics for Data Science,"University of California, Davis"
+175,Preparing for Google Cloud Certification: Cloud DevOps Engineer,Google Cloud
+176,Medical Billing and Coding Fundamentals,MedCerts
+177,Microsoft Cybersecurity Analyst,Microsoft
+178,Supply Chain Management,Rutgers the State University of New Jersey
+179,Introduction to Healthcare,Stanford University
+180,The Business of Health Care,University of Pennsylvania
+181,AI in Education: Leveraging ChatGPT for Teaching,University of Pennsylvania
+182,IBM Introduction to Machine Learning,IBM
+183,Meta Data Analyst,Meta
+184,"Unsupervised Learning, Recommenders, Reinforcement Learning",DeepLearning.AI
+185,Search Engine Optimization (SEO),"University of California, Davis"
+186,Human Resource Management: HR for People Managers,University of Minnesota
+187,Algorithms,Stanford University
+188,Adobe Content Creator,Adobe
+189,AWS Fundamentals,Amazon Web Services
+190,AWS Cloud Solutions Architect,Amazon Web Services
+191,Workday Basics Series,Workday
+192,Product Management Certification,SkillUp EdTech
+193,Foundations of Management,IESE Business School
+194,Preparing for Google Cloud Certification: Cloud Security Engineer,Google Cloud
+195,Preparing for Google Cloud Certification: Cloud Network Engineer,Google Cloud
+196,Analyze Data to Answer Questions,Google
+197,Salesforce Sales Operations,Salesforce
+198,Epic Games Game Design,Epic Games
+199,Pharmacy Technician Fundamentals,MedCerts
+200,Mathematics for Machine Learning,Imperial College London
+201,"Assets, Threats, and Vulnerabilities",Google
+202,Linear Algebra for Machine Learning and Data Science,DeepLearning.AI
+203,Project Management,University of Colorado Boulder
+204,AWS Cloud Support Associate,Amazon Web Services
+205,Private Equity and Venture Capital,UniversitÃ  Bocconi
+206,Introduction to Generative AI for Software Development,DeepLearning.AI
+207,AWS Cloud Technology Consultant,Amazon Web Services
+208,Intellectual Property Law,University of Pennsylvania
+209,AI for Medicine,DeepLearning.AI
+210,Networking in Google Cloud,Google Cloud
+211,Capstone: Applying Project Management in the Real World,Google
+212,Operating Systems and You: Becoming a Power User,Google
+213,Financial Engineering and Risk Management,Columbia University
+214,Genomic Data Science,Johns Hopkins University
+215,Developing Applications with Google Cloud,Google Cloud
+216,Google Cloud Digital Leader Training,Google Cloud
+217,Security in Google Cloud,Google Cloud
+218,Tableau Business Intelligence Analyst,Tableau Learning Partner
+219,Microsoft Excel,Microsoft
+220,Business Analytics with Excel: Elementary to Advanced,Johns Hopkins University
+221,Data Analysis with R Programming,Google
+222,"JavaScript Programming with React, Node & MongoDB",IBM
+223,Mergers and Acquisitions,University of Illinois Urbana-Champaign
+224,Leadership Skills,IIMA - IIM Ahmedabad
+225,Artificial Intelligence in Marketing,University of Virginia
+226,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",DeepLearning.AI
+227,"TESOL Certificate, Part 2: Teach English Now!",Arizona State University
+228,Getting started with Google Workspace,Google Cloud
+229,Google Cloud Data Analytics,Google Cloud
+230,IBM Program Manager,IBM
+231,Strategic Leadership and Management,University of Illinois Urbana-Champaign
+232,Entrepreneurship: Growing Your Business,University of Virginia
+233,DevOps on AWS,Amazon Web Services
+234,Share Data Through the Art of Visualization,Google
+235,Self-Driving Cars,University of Toronto
+236,Psychological First Aid,Johns Hopkins University
+237,Python 3 Programming,University of Michigan
+238,Preparing for Google Cloud Certification: Cloud Data Engineer,Google Cloud
+239,"Python for Data Science, AI & Development",IBM
+240,Stanford Introduction to Food and Health,Stanford University
+241,Agile Development,University of Virginia
+242,Machine Learning on Google Cloud,Google Cloud
+243,"Influencing: Storytelling, Change Management and Governance",Macquarie University
+244,Programming for Everybody (Getting Started with Python),University of Michigan
+245,Crash Course on Python,Google
+246,"Data Engineering, Big Data, and Machine Learning on GCP",Google Cloud
+247,Machine Learning in Production,DeepLearning.AI
+248,Prompt Engineering for ChatGPT,Vanderbilt University
+249,Renew your CBRS Professional Installer certification,Google - Spectrum Sharing
+250,From Likes to Leads: Interact with Customers Online,Google
+251,Generative Adversarial Networks (GANs),DeepLearning.AI
+252,Bookkeeping Basics,Intuit
+253,Sound the Alarm: Detection and Response,Google
+254,Introduction to Data Engineering,DeepLearning.AI
+255,Google Data Analytics Capstone: Complete a Case Study,Google
+256,System Administration and IT Infrastructure Services,Google
+257,Google Marketing Digital e E-Commerce,Google
+258,English for Career Development,University of Pennsylvania
+259,AI Infrastructure and Operations Fundamentals,NVIDIA
+260,Risk Management,New York Institute of Finance
+261,Methods and Statistics in Social Sciences,University of Amsterdam
+262,IBM Product Owner,IBM
+263,Automate Cybersecurity Tasks with Python,Google
+264,Amazon Junior Software Developer,Amazon
+265,Management of Fashion and Luxury Companies,UniversitÃ  Bocconi
+266,Data Structures and Algorithms,University of California San Diego
+267,ISC2 Systems Security Certified Practitioner (SSCP),ISC2
+268,Google Professional Workspace Administrator,Google Cloud
+269,Cybersecurity for Everyone,"University of Maryland, College Park"
+270,People and Soft Skills for Professional and Personal Success,IBM
+271,The Integration of Art and Science in Modern Dental Medicine,University of Pennsylvania
+272,AI Product Management,Duke University
+273,Career Success,"University of California, Irvine"
+274,Meta Marketing Science Certification Prep,Meta
+275,Unilever Supply Chain Data Analyst,Unilever
+276,Project Management & Other Tools for Career Development,"University of California, Irvine"
+277,Modern Project Management Certificate,SkillUp EdTech
+278,Reinforcement Learning,University of Alberta
+279,TensorFlow: Advanced Techniques,DeepLearning.AI
+280,AI Fundamentals for Non-Data Scientists,University of Pennsylvania
+281,Build Wireframes and Low-Fidelity Prototypes,Google
+282,Microsoft Power BI and Power Platform for Productivity,Microsoft
+283,Introduction to Financial Accounting,University of Pennsylvania
+284,Data Science,Johns Hopkins University
+285,UI / UX Design,California Institute of the Arts
+286,Project Management Principles and Practices,"University of California, Irvine"
+287,Cancer Biology,Johns Hopkins University
+288,Medical Terminology,Rice University
+289,Put It to Work: Prepare for Cybersecurity Jobs,Google
+290,Preparing  Data for Analysis with Microsoft Excel,Microsoft
+291,Introduction to Cosmetic Science and Ingredients,Olay
+292,Mental Health Care Fundamentals,MedCerts
+293,Convolutional Neural Networks,DeepLearning.AI
+294,IT Fundamentals for Cybersecurity,IBM
+295,Medical Office Procedures and Administration Fundamentals,MedCerts
+296,Foundations of Data Science,Google
+297,Global Procurement and Sourcing,Rutgers the State University of New Jersey
+298,AI for Good,DeepLearning.AI
+299,MLOps | Machine Learning Operations,Duke University
+300,Fundamentals of Quantitative Modeling,University of Pennsylvania
+301,Machine Learning for Trading,Multiple educators
+302,Developing Mobile Apps with React Native,IBM
+303,Game Theory,Stanford University
+304,Sequence Models,DeepLearning.AI
+305,Successful Negotiation: Essential Strategies and Skills,University of Michigan
+306,Microsoft Full-Stack Developer,Microsoft
+307,Structuring Machine Learning Projects,DeepLearning.AI
+308,Keller Williams Real Estate Agent,Keller Williams
+309,IT Security: Defense against the digital dark arts,Google
+310,Geographic Information Systems  (GIS),"University of California, Davis"
+311,Think Outside the Inbox: Email Marketing,Google
+312,"Brand Management: Aligning Business, Brand and Behaviour",University of London
+313,Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator,Yale University
+314,Microsoft Azure Fundamentals AZ-900 Exam Prep,Microsoft
+315,Data Science: Foundations using R,Johns Hopkins University
+316,IBM Mainframe Developer,IBM
+317,Introduction to Social Media Marketing,Meta
+318,Financial Analysis - Skills for Success,University of Illinois Urbana-Champaign
+319,Introduction to Systematic Review and Meta-Analysis,Johns Hopkins University
+320,Human Resources Analytics,"University of California, Irvine"
+321,Applied Data Science with Python,University of Michigan
+322,Leading People and Teams,University of Michigan
+323,Foundations of Business Intelligence,Google
+324,Cryptography I,Stanford University
+325,Conduct UX Research and Test Early Concepts,Google
+326,Omnichannel Retail Strategy,University of Pennsylvania
+327,Accelerated Computer Science Fundamentals,University of Illinois Urbana-Champaign
+328,Instructional Design Foundations and Applications,University of Illinois Urbana-Champaign
+329,Drug Development Product Management,University of California San Diego
+330,Six Sigma Black Belt,Kennesaw State University
+331,Java Programming and Software Engineering Fundamentals,Duke University
+332,Workday in Action Series,Workday
+333,Creating Business Value with Data and Looker,Google Cloud
+334,Sustainability for Business: ESG Fundamentals,IMD - International Institute for Management Development
+335,Introduction to Data Analytics,IBM
+336,Foundational Finance for Strategic Decision Making,University of Michigan
+337,Scrum Master Certification,LearnQuest
+338,Clinical Trials: Good Clinical Practice,Novartis
+339,Algorithms for Battery Management Systems,University of Colorado Boulder
+340,Blockchain,University at Buffalo
+341,"Product Ideation, Design, and Management","University of Maryland, College Park"
+342,FPGA Design for Embedded Systems,University of Colorado Boulder
+343,Generative AI for Educators & Teachers,Vanderbilt University
+344,Connected Leadership,Yale University
+345,Introduction to Marketing,University of Pennsylvania
+346,Assess for Success: Marketing Analytics and Measurement,Google
+347,Understanding the Brain: The Neurobiology of Everyday Life,The University of Chicago
+348,Business Value and Project Management,University of Illinois Urbana-Champaign
+349,Object Oriented Programming in Java,Multiple educators
+350,The Pronunciation of American English,"University of California, Irvine"
+351,Team Software Engineering with AI,DeepLearning.AI
+352,Design Thinking,University of Virginia
+353,Introductory Human Physiology,Duke University
+354,Organizational Analysis,Stanford University
+355,Global Diplomacy â Diplomacy in the Modern World,University of London
+356,Modern and Contemporary Art and Design,The Museum of Modern Art
+357,Digital Transformation Using AI/ML with Google Cloud,Google Cloud
+358,Principles of Management,Johns Hopkins University
+359,What is Data Science?,IBM
+360,"Modern Robotics:  Mechanics, Planning, and Control",Northwestern University
+361,Microsoft 365 Copilot for Leaders,Vanderbilt University
+362,Vertex AI Search for Retail,Google Cloud
+363,Google ãã¼ã¿ã¢ããªãã£ã¯ã¹,Google
+364,Fundamentals of Project Planning and Management,University of Virginia
+365,Learning How to Learn: Powerful mental tools to help you master tough subjects,Deep Teaching Solutions
+366,Create High-Fidelity Designs and Prototypes in Figma,Google
+367,Medical Neuroscience,Duke University
+368,Blockchain Revolution,INSEAD
+369,The DIY Musician,Berklee
+370,Work Smarter with Microsoft Word,Microsoft
+371,Natural Language Processing with Classification and Vector Spaces,DeepLearning.AI
+372,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Hebrew University of Jerusalem
+373,IBM z/OS Mainframe Practitioner,IBM
+374,AnÃ¡lisis de Datos de Google,Google
+375,Business Data Management and Communication,University of Illinois Urbana-Champaign
+376,Microsoft UX Design,Microsoft
+377,The Business of Music Production,Berklee
+378,Pricing Strategy Optimization,University of Virginia
+379,Introduction to Corporate Finance,University of Pennsylvania
+380,Fundamentals of Finance,University of Pennsylvania
+381,Project Management Essentials,Howard University
+382,Agile with Atlassian Jira,Atlassian
+383,Anatomy,University of Michigan
+384,Reducing Gun Violence in America: Evidence for Change,Johns Hopkins University
+385,GestiÃ³n de Proyectos de Google,Google
+386,Preparation for CompTIA A+ Certification,IBM
+387,PMI-PMPÂ® Certification Training Course,LearnKartS
+388,Get Started with Python,Google
+389,Primeros Auxilios PsicolÃ³gicos (PAP),Universitat AutÃ²noma de Barcelona
+390,Clinical Trials Operations,Johns Hopkins University
+391,Diversity and inclusion in the workplace,ESSEC Business School
+392,Excel Basics for Data Analysis,IBM
+393,Managing Emotions in Times of Uncertainty & Stress,Yale University
+394,Introduction to Generative AI,Google Cloud
+395,Achieving Personal and Professional Success,University of Pennsylvania
+396,Customer Service Fundamentals,Knowledge Accelerators
+397,Financial Management,University of Illinois Urbana-Champaign
+398,Biostatistics in Public Health,Johns Hopkins University
+399,Human Anatomy and Medical Terminology Fundamentals,MedCerts
+400,"Effective Communication: Writing, Design, and Presentation",University of Colorado Boulder
+401,"Make the Sale: Build, Launch, and Manage E-commerce Stores",Google
+402,Introduction to Clinical Data,Stanford University
+403,Healthcare Law,University of Pennsylvania
+404,Microsoft Public Relations and Communications Associate,Microsoft
+405,The Manager's Toolkit: A Practical Guide to Managing People at Work,University of London
+406,Financial Technology (Fintech) Innovations,University of Michigan
+407,The Strategy of Content Marketing,"University of California, Davis"
+408,"C, Go, and C++: A Comprehensive Introduction to Programming","University of California, Santa Cruz"
+409,Coding for Everyone: C and C++,"University of California, Santa Cruz"
+410,U.S. Federal Taxation,University of Illinois Urbana-Champaign
+411,Investment Management,University of Geneva
+412,Introduction to Electronics,Georgia Institute of Technology
+413,Teach English Now! Foundational Principles,Arizona State University
+414,Music Production,Berklee
+415,Trading Strategies in Emerging Markets,Indian School of Business
+416,Integrative Health and Medicine,University of Minnesota
+417,Security Analyst Fundamentals,IBM
+418,AI Applications in Marketing and Finance,University of Pennsylvania
+419,Build Dynamic User Interfaces (UI) for Websites,Google
+420,Marketing en redes sociales de Meta,Meta
+421,Microsoft Back-End Developer,Microsoft
+422,Business Strategies for A Better World,University of Pennsylvania
+423,Introduction to Engineering Mechanics,Georgia Institute of Technology
+424,Bayesian Statistics,"University of California, Santa Cruz"
+425,Healthy and Sustainable Foods and Products,University of Michigan
+426,Introduction to Calculus,The University of Sydney
+427,Creative Writing,Wesleyan University
+428,SAP Professional Fundamentals,SAP
+429,From Excel to Power BI,Knowledge Accelerators
+430,Databases and SQL for Data Science with Python,IBM
+431,Digital Manufacturing & Design Technology,University at Buffalo
+432,Industrial Power Systems Analysis and Stability,L&T EduTech
+433,Python Data Structures,University of Michigan
+434,Essentials in Clinical Simulations Across the Health Professions,The George Washington University
+435,Gemini for Google Workspace,Google Cloud
+436,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",DeepLearning.AI
+437,Optical Engineering,University of Colorado Boulder
+438,Managerial Accounting Fundamentals,University of Virginia
+439,Introduction to Artificial Intelligence (AI),IBM
+440,Academic English: Writing,"University of California, Irvine"
+441,Harnessing the Power of Data with Power BI,Microsoft
+442,Bioinformatics,University of California San Diego
+443,Web Design for Everybody: Basics of Web Development & Coding,University of Michigan
+444,Business English Communication Skills,University of Washington
+445,"Food Sustainability, Mindful Eating, and Healthy Cooking",Stanford University
+446,Six Sigma Green Belt,Kennesaw State University
+447,Behavioral Finance,Duke University
+448,Software Product Management,University of Alberta
+449,Excel Skills for Data Analytics and Visualization,Macquarie University
+450,Positive Psychiatry and Mental Health,The University of Sydney
+451,Generative AI: Introduction and Applications,IBM
+452,Branding: The Creative Journey,IE Business School
+453,Data Analysis with Python,IBM
+454,OKR Certification: Leadership and Goal Setting,Measure What Matters
+455,AI & Law,Lund University
+456,Calculus for Machine Learning and Data Science,DeepLearning.AI
+457,Foundations of Data Structures and Algorithms,University of Colorado Boulder
+458,Satisfaction Guaranteed: Develop Customer Loyalty Online,Google
+459,Real Estate Development: Building Value in Your Community,University of Michigan
+460,Become an EMT,University of Colorado System
+461,The Singer Songwriter,Berklee
+462,Introduction to Front-End Development,Meta
+463,Business Communication,University of Colorado Boulder
+464,First Step Korean,Yonsei University
+465,Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate æ¥æ¬èªç,Google Cloud
+466,"Data Engineering, Big Data and ML on Google Cloud æ¥æ¬èªç",Google Cloud
+467,Introduction to Discrete Mathematics for Computer Science,University of California San Diego
+468,Introduction to Software Engineering,IBM
+469,Ciberseguridad de Google,Google
+470,Excel Skills for Business: Essentials,Macquarie University
+471,An Introduction to American Law,University of Pennsylvania
+472,Introduction to Python Programming,University of Pennsylvania
+473,Design a User Experience for Social Good & Prepare for Jobs,Google
+474,Engineering Project Management,Rice University
+475,Introduction to Mathematical Thinking,Stanford University
+476,Renewable Energy,University of Colorado Boulder
+477,"Source Systems, Data Ingestion, and Pipelines",DeepLearning.AI
+478,JavaScript Security,Infosec
+479,Six Sigma Yellow Belt,Kennesaw State University
+480,Animal Behaviour and Welfare,The University of Edinburgh
+481,International Humanitarian Law in Theory and Practice,Universiteit Leiden
+482,"Psychology of Anxiety, Mood, Substance Use, and Addictive Behaviors",American Psychological Association
+483,Robotic Process Automation (RPA),UiPath
+484,Fractal Data Science,Fractal Analytics
+485,Probability & Statistics for Machine Learning & Data Science,DeepLearning.AI
+486,Mathematics for Engineers,The Hong Kong University of Science and Technology
+487,Social Psychology,Wesleyan University
+488,Data Mining,University of Illinois Urbana-Champaign
+489,Practical Guide to Trading,Interactive Brokers
+490,"NoSQL, Big Data, and Spark Foundations",IBM
+491,SQL for Data Science,"University of California, Davis"
+492,"FinTech: Foundations, Payments, and Regulations",University of Pennsylvania
+493,Forensic Accounting and Fraud Examination,West Virginia University
+494,Healthcare IT Support,Johns Hopkins University
+495,Learn Chinese: HSK Test Preparation,Peking University
+496,Marketing Analytics,University of Virginia
+497,"Hotel Management: Distribution, Revenue and Demand Management",ESSEC Business School
+498,Introduction to Finance: The Basics,University of Illinois Urbana-Champaign
+499,Epidemiology in Public Health Practice,Johns Hopkins University
+500,Architecting with Google Kubernetes Engine,Google Cloud
+501,Tools for Data Science,IBM
+502,Introduction to Large Language Models,Google Cloud
+503,Management Consulting,Emory University
+504,Talent Acquisition,HRCI
+505,AWS Cloud Practitioner Essentials,Amazon Web Services
+506,Strategy and Game Theory for Management,IIMA - IIM Ahmedabad
+507,Probabilistic Graphical Models,Stanford University
+508,Unilever Digital Marketing Analyst,Unilever
+509,Artificial Intelligence: an Overview,Politecnico di Milano
+510,Science of Exercise,University of Colorado Boulder
+511,Excel/VBA for Creative Problem Solving,University of Colorado Boulder
+512,Software Design and Architecture,University of Alberta
+513,The Art of Visual Storytelling,University of Colorado Boulder
+514,"HTML, CSS, and Javascript for Web Developers",Johns Hopkins University
+515,Positive Psychology: Martin E. P. Seligmanâs Visionary Science,University of Pennsylvania
+516,Social Media Management,Meta
+517,Cybersecurity Attack and Defense Fundamentals,EC-Council
+518,Web Applications for Everybody,University of Michigan
+519,Fundamentals of Machine Learning for Healthcare,Stanford University
+520,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",Erasmus University Rotterdam
+521,Advanced Digital Transformation,IIMA - IIM Ahmedabad
+522,Food & Beverage Management,UniversitÃ  Bocconi
+523,AI-Powered Software and System Design,DeepLearning.AI
+524,Microsoft AI & ML Engineering,Microsoft
+525,Linear Algebra from Elementary to Advanced,Johns Hopkins University
+526,Introduction to Forensic Science,"Nanyang Technological University, Singapore"
+527,Business and Marketing Strategies,University of London
+528,Salesforce Sales Development Representative,Salesforce
+529,International Women's Health and Human Rights,Stanford University
+530,Python Project for Data Science,IBM
+531,Frontend Development,Scrimba
+532,"Coding for Designers, Managers, and Entrepreneurs",University of Virginia
+533,C and Go: Classical and Modern Programming,"University of California, Santa Cruz"
+534,Corporate Strategy,University of London
+535,Generative AI for Executives and Business Leaders,IBM
+536,NASM Personal Fitness Trainer,National Academy of Sports Medicine
+537,Supply Chain Principles,Georgia Institute of Technology
+538,Real-World Product Management,Advancing Women in Tech
+539,Professional Skills for the Workplace,"University of California, Davis"
+540,Viral Marketing and How to Craft Contagious Content,University of Pennsylvania
+541,Sports Performance Analytics,University of Michigan
+542,IELTS Preparation,"University of California, Irvine"
+543,School Health for Children and Adolescents,University of Colorado System
+544,Large Language Model Operations (LLMOps),Duke University
+545,DiseÃ±o de Experiencia del Usuario (UX) de Google,Google
+546,Cryptocurrency and Blockchain: An Introduction to Digital Currencies,University of Pennsylvania
+547,AI for Medical Diagnosis,DeepLearning.AI
+548,Introduction to Spreadsheets and Models,University of Pennsylvania
+549,Music Education for Teachers,Berklee
+550,Good with Words: Writing and Editing,University of Michigan
+551,Drug Hunting: The Science of Making New Medicines,Novartis
+552,Investment Management with Python and Machine Learning,EDHEC Business School
+553,Learn Spanish: Basic Spanish Vocabulary,"University of California, Davis"
+554,Generative AI: Prompt Engineering Basics,IBM
+555,Spanish for Successful Communication in Healthcare Settings,Rice University
+556,"Songwriting: Writing, Arranging, and Producing Music",Berklee
+557,AWS Cloud Technical Essentials,Amazon Web Services
+558,Sports Marketing,Northwestern University
+559,Dynamic Public Speaking,University of Washington
+560,Creative Thinking: Techniques and Tools for Success,Imperial College London
+561,Integrative Nursing,University of Minnesota
+562,Machine Learning with Python,IBM
+563,Learn English: Beginning Grammar,"University of California, Irvine"
+564,GPU Programming,Johns Hopkins University
+565,An Introduction to Consumer Neuroscience & Neuromarketing,Copenhagen Business School
+566,Introduction to Philosophy,The University of Edinburgh
+567,Teach English Now! Theories of Second Language Acquisition,Arizona State University
+568,Fundamentals of Graphic Design,California Institute of the Arts
+569,Nuts and Bolts of U.S. Immigration Law,University of Pennsylvania
+570,Design and Interpretation of Clinical Trials,Johns Hopkins University
+571,An Introduction to Learning Experience Design (LXD),University of Michigan
+572,Scrum Master,SkillUp EdTech
+573,Embedding Sensors and Motors,University of Colorado Boulder
+574,Digital Product Management: Modern Fundamentals,University of Virginia
+575,Fundamentals of Accounting,University of Illinois Urbana-Champaign
+576,Introduction to Business,"University of California, Irvine"
+577,Learn to Program: The Fundamentals,University of Toronto
+578,International Law in Action: the Arbitration of International Disputes,Universiteit Leiden
+579,AI Strategy and Governance,University of Pennsylvania
+580,Abnormal Psychology,Wesleyan University
+581,ESG for All,Duke University
+582,Data Analysis and Visualization with Power BI,Microsoft
+583,Photography Basics and Beyond: From Smartphone to DSLR,Michigan State University
+584,Project Management: Foundations and Initiation,University of Colorado Boulder
+585,Business Statistics and Analysis,Rice University
+586,Teach English Now! Capstone Project 1,Arizona State University
+587,Write Professional Emails in English,Georgia Institute of Technology
+588,Introduction to English Common Law,University of London
+589,Microsoft Front-End Developer,Microsoft
+590,Go Beyond the Numbers: Translate Data into Insights,Google
+591,Child Nutrition and Cooking,Stanford University
+592,Evaluations of AI Applications in Healthcare,Stanford University
+593,"Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising",University of Colorado Boulder
+594,CISSP Certified Information Systems Security Professional,Packt
+595,Vivre avec le TDAH Ã  travers les Ã¢ges,University of Geneva
+596,Corporate & Commercial Law I: Contracts & Employment Law,University of Illinois Urbana-Champaign
+597,Futures Thinking,Institute for the Future
+598,Python and Statistics for Financial Analysis,The Hong Kong University of Science and Technology
+599,Marketing Mix Implementation,IE Business School
+600,GoodwillÂ® Career Coach and Navigator,Goodwill Industries International
+601,Economics of Money and Banking,Columbia University
+602,MATLAB Programming for Engineers and Scientists,Vanderbilt University
+603,Assets in Accounting,Intuit
+604,Data Analysis with R,Duke University
+605,Advanced Embedded Linux Development,University of Colorado Boulder
+606,Microsoft Azure Data Scientist Associate (DP-100) Exam Prep,Microsoft
+607,Teach English Now! Capstone Project 2,Arizona State University
+608,AI Applications in People Management,University of Pennsylvania
+609,Work Smarter with Microsoft Excel,Microsoft
+610,Electric Industry Operations and Markets,Duke University
+611,Neuroscience and Neuroimaging,Johns Hopkins University
+612,Programming with JavaScript,Meta
+613,Modeling and Control of Power Electronics,University of Colorado Boulder
+614,Electronic Music Production,Berklee
+615,"Energy Production, Distribution & Safety",University at Buffalo
+616,The Path to Insights: Data Models and Pipelines,Google
+617,"Extract, Transform and Load Data in Power BI",Microsoft
+618,Palliative Care Always,Stanford University
+619,Foundations for Assisting in Home Care,The State University of New York
+620,Data Management for Clinical Research,Vanderbilt University
+621,Pre-MBA Statistics,IIMA - IIM Ahmedabad
+622,Palo Alto Networks Cybersecurity,Palo Alto Networks
+623,Leverage Data Science for a More Agile Supply Chain,"University of California, Irvine"
+624,Business Analysis Fundamentals,Microsoft
+625,Customer Analytics,University of Pennsylvania
+626,Construction Project Management,Columbia University
+627,Equine Welfare and Management,"University of California, Davis"
+628,Interaction Design,University of California San Diego
+629,Healthcare Management and Finance,University of Michigan
+630,Data Visualization with Tableau,"University of California, Davis"
+631,Understanding Clinical Research: Behind the Statistics,University of Cape Town
+632,Agroforestry,University of Florida
+633,Health Informatics,Johns Hopkins University
+634,IntroducciÃ³n a la programaciÃ³n en Python I: Aprendiendo a programar con Python,Pontificia Universidad CatÃ³lica de Chile
+635,Oil & Gas Industry Operations and Markets,Duke University
+636,TensorFlow: Data and Deployment,DeepLearning.AI
+637,Java FullStack Developer,Board Infinity
+638,Ãtudier en France: French Intermediate course B1-B2,Ãcole Polytechnique
+639,Biology Meets Programming: Bioinformatics for Beginners,University of California San Diego
+640,"Introduction to Biology: Ecology, Evolution, & Biodiversity",Rice University
+641,Contabilidad para no contadores,Universidad Nacional AutÃ³noma de MÃ©xico
+642,Financial Management,Duke University
+643,Strategic Management and Innovation,Copenhagen Business School
+644,Supply Chain Logistics,Rutgers the State University of New Jersey
+645,Blockchain Revolution in Financial Services,INSEAD
+646,Professionalism in Allied Health,MedCerts
+647,Teach English Now! Lesson Design and Assessment,Arizona State University
+648,Moral Foundations of Politics,Yale University
+649,Data Visualization and Dashboards with Excel and Cognos,IBM
+650,Everyday Parenting: The ABCs of Child Rearing,Yale University
+651,Microsoft Generative AI for Data Analysis,Microsoft
+652,The AI Awakening: Implications for the Economy and Society,Stanford University
+653,Management Skills for New Managers,Starweaver
+654,PostgreSQL for Everybody,University of Michigan
+655,Market Research,"University of California, Davis"
+656,Industrial Biotechnology,University of Manchester
+657,Introduction to Logic and Critical Thinking,Duke University
+658,Google Data Analytics,Google
+659,Certified Business Analysis Professionalâ¢ (CBAPÂ®),Starweaver
+660,Removing Barriers to Change,University of Pennsylvania
+661,Decentralized Finance (DeFi): The Future of Finance,Duke University
+662,Digital Technologies and the Future of Manufacturing,University of Michigan
+663,Financial Accounting Fundamentals,University of Virginia
+664,Write A Feature Length Screenplay For Film Or Television,Michigan State University
+665,Finance for Technical Managers,University of Colorado Boulder
+666,Habilidades Gerenciales,Universidad Nacional AutÃ³noma de MÃ©xico
+667,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,UniversitÃ  Bocconi
+668,Understanding Research Methods,University of London
+669,"Personal Productivity, Time Management and Prioritization",Starweaver
+670,Learn Interpersonal Psychotherapy,University of Toronto
+671,Using Public Policy for Social Change,University of Michigan
+672,Organizational Change and Culture for Adopting Google Cloud,Google Cloud
+673,Core Java,LearnQuest
+674,Digital Signal Processing,Ãcole Polytechnique FÃ©dÃ©rale de Lausanne
+675,What is Compliance?,University of Pennsylvania
+676,Microsoft Power Platform Fundamentals PL-900 Exam Prep,Microsoft
+677,Effective Marketing in the Global Marketplace,Coursera Instructor Network
+678,Introduction to Operations Management,University of Pennsylvania
+679,Foundations of Business Strategy,University of Virginia
+680,Narrative Economics,Yale University
+681,Supply Chain Analytics,Rutgers the State University of New Jersey
+682,Data Modeling in Power BI,Microsoft
+683,Statistical Analysis with R for Public Health,Imperial College London
+684,Chinese for Beginners,Peking University
+685,Value Chain Management,University of Illinois Urbana-Champaign
+686,Foundations of Software Testing and Validation,University of Leeds
+687,Microsoft Data Visualization,Microsoft
+688,Software Testing and Automation,University of Minnesota
+689,Introduction to Security Principles in Cloud Computing,Google Cloud
+690,PMP Exam Prep Certification Training,"University of Maryland, College Park"
+691,American Contract Law I,Yale University
+692,Patient Safety,Johns Hopkins University
+693,Advanced Machine Learning on Google Cloud,Google Cloud
+694,Data-driven Decision Making,PwC
+695,An Introduction to Programming the Internet of Things (IOT),"University of California, Irvine"
+696,Product Management: An Introduction,IBM
+697,User Experience Research and Design,University of Michigan
+698,Principles of Sustainable Finance,Erasmus University Rotterdam
+699,Competitive Strategy and Organization Design,Ludwig-Maximilians-UniversitÃ¤t MÃ¼nchen (LMU)
+700,Miracles of Human Language: An Introduction to Linguistics,Universiteit Leiden
+701,Google Cloud Fundamentals: Core Infrastructure,Google Cloud
+702,Semiconductor Packaging,Arizona State University
+703,"Teach English Now! Second Language Reading, Writing, and Grammar",Arizona State University
+704,"Strategic Leadership: Impact, Change, and Decision-Making",Dartmouth College
+705,Conflict Management,"University of California, Irvine"
+706,Politics and Economics of International Energy,Sciences Po
+707,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",Stanford University
+708,Informationâ âSystems,University of Minnesota
+709,International Leadership and Organizational Behavior,UniversitÃ  Bocconi
+710,Battery Technologies,Arizona State University
+711,Music Business,Berklee
+712,Customer Relationship Management,Starweaver
+713,Data Science Foundations: Statistical Inference,University of Colorado Boulder
+714,BI Essentials for Finance Analysts (Power BI Edition),Corporate Finance Institute
+715,Version Control,Meta
+716,Preparatory Certificate in Finance and Financial Markets,Corporate Finance Institute
+717,Fundamentals of Computing,Rice University
+718,Overcoming Dyslexia,Yale University
+719,Organizational Leadership,Northwestern University
+720,AI For Everyone ï¼ãã¹ã¦ã®äººã®ããã®AIãªãã©ã·ã¼è¬åº§ï¼,DeepLearning.AI
+721,Solar Energy Basics,The State University of New York
+722,Convolutional Neural Networks in TensorFlow,DeepLearning.AI
+723,Immunology: The Immune System and its Failures,Imperial College London
+724,Computational Thinking for Problem Solving,University of Pennsylvania
+725,India Customs and Allied laws,PwC India
+726,Understanding Medical Research: Your Facebook Friend is Wrong,Yale University
+727,The Science of Well-Being for Teens,Yale University
+728,Site Reliability Engineering: Measuring and Managing Reliability,Google Cloud
+729,Cybersecurity Operations Fundamentals,Cisco Learning and Certifications
+730,Data Science Methodology,IBM
+731,Microeconomics Principles,University of Illinois Urbana-Champaign
+732,Terrorism and Counterterrorism: Comparing Theory and Practice,Universiteit Leiden
+733,Entrepreneurship 1: Developing the Opportunity,University of Pennsylvania
+734,Responsible Conduct of Research,Utrecht University
+735,Microsoft Azure Developer Associate (AZ-204) Exam Prep,Microsoft
+736,Power Electronics,University of Colorado Boulder
+737,Mathematics for Machine Learning: Linear Algebra,Imperial College London
+738,Introduction to Responsible AI,Google Cloud
+739,Vital Signs: Understanding What the Body Is Telling Us,University of Pennsylvania
+740,Microsoft Program Management,Microsoft
+741,ChatGPT Advanced Data Analysis,Vanderbilt University
+742,Microeconomics: The Power of Markets,University of Pennsylvania
+743,Artificial Intelligence (AI) Education for Teachers,Macquarie University
+744,Applied Data Science with R,IBM
+745,"Information Systems Auditing, Controls and Assurance",The Hong Kong University of Science and Technology
+746,Databases for Data Scientists,University of Colorado Boulder
+747,Operations and Process Management,Illinois Tech
+748,"Negotiation, Mediation and Conflict Resolution",ESSEC Business School
+749,Introduction to Technical Writing,Board Infinity
+750,Marine Biology,American Museum of Natural History
+751,Understanding child development: from synapse to society,Utrecht University
+752,Leading Healthcare Quality and Safety,The George Washington University
+753,"Teach English Now! Second Language Listening, Speaking, and Pronunciation",Arizona State University
+754,Generative AI for Executives and Business Leaders - Part 1,IBM
+755,Machine Learning and Reinforcement Learning in Finance,New York University
+756,Statistics with Python,University of Michigan
+757,Global Diplomacy: the United Nations in the World,University of London
+758,Quantum Computing For Everyone - An Introduction,Fractal Analytics
+759,Hospitality Luxury Brand Management,Starweaver
+760,Design Fundamentals,Adobe
+761,Programming in C++: A Hands-on Introduction,Codio
+762,The Science of Stem Cells,American Museum of Natural History
+763,Data Storage and Queries,DeepLearning.AI
+764,Astronomy: Exploring Time and Space,University of Arizona
+765,Instructional Methods in Health Professions Education,University of Michigan
+766,Managing Cybersecurity,Kennesaw State University
+767,Rust Programming,Duke University
+768,Natural Language Processing with Probabilistic Models,DeepLearning.AI
+769,Addiction Treatment: Clinical Skills for Healthcare Providers,Yale University
+770,Sales and CRM Overview,Salesforce
+771,Object Oriented Programming,University of London
+772,Introduction to Financial Engineering and Risk Management,Columbia University
+773,The Power of Statistics,Google
+774,Making Architecture,IE Business School
+775,Mastering Program Management: Strategy to Certification,SkillUp EdTech
+776,Object Oriented Java Programming: Data Structures and Beyond,University of California San Diego
+777,Business Finance and Data Analysis Fundamentals,Rice University
+778,RÃ©ussir le Changement,ESSEC Business School
+779,Culture-Driven Team Building,University of Pennsylvania
+780,Teach English Now! Technology Enriched Teaching,Arizona State University
+781,Healing with the Arts,University of Florida
+782,ESG Risks and Opportunities,University of Pennsylvania
+783,Introduction to Psychology,University of Toronto
+784,The Fundamentals of Personal Finance,SoFi
+785,Introduction to Cloud Computing,IBM
+786,Six Sigma Principles,Kennesaw State University
+787,English for Common Interactions in the Workplace: Basic Level,Pontificia Universidad CatÃ³lica de Chile
+788,Using Python to Interact with the Operating System,Google
+789,Developing APIs with Google Cloud's Apigee API Platform,Google Cloud
+790,Google Data Analytics (PT),Google
+791,Computational Neuroscience,University of Washington
+792,IA Para Todos (EspaÃ±ol),DeepLearning.AI
+793,AI in Healthcare Capstone,Stanford University
+794,Google Project Management (PT),Google
+795,Auditing I: Conceptual Foundations of Auditing,University of Illinois Urbana-Champaign
+796,Innovation Management,Erasmus University Rotterdam
+797,Children's Human Rights - An Interdisciplinary Introduction,University of Geneva
+798,Epidemiology: The Basic Science of Public Health,The University of North Carolina at Chapel Hill
+799,Impact Measurement & Management for the SDGs,Duke University
+800,Everyday Excel,University of Colorado Boulder
+801,Developing Industrial Internet of Things,University of Colorado Boulder
+802,Corporate Communications,"University of California, Irvine"
+803,Introduction to Computers,Microsoft
+804,Emotional Intelligence: Cultivating Immensely Human Interactions,University of Michigan
+805,Marketing Strategy,IE Business School
+806,C# Programming for Unity Game Development,University of Colorado System
+807,"Decisions, Decisions: Dashboards and Reports",Google
+808,Fundamentals of GIS,"University of California, Davis"
+809,Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers,HEC Paris
+810,Accounting: Principles of Financial Accounting,IESE Business School
+811,Introduction to Intellectual Property,University of Pennsylvania
+812,IBM AI Enterprise Workflow,IBM
+813,Functional Programming in Scala,Ãcole Polytechnique FÃ©dÃ©rale de Lausanne
+814,Computational Social Science,"University of California, Davis"
+815,Big Data,University of California San Diego
+816,Algebra: Elementary to Advanced,Johns Hopkins University
+817,Spacecraft Dynamics and Control,University of Colorado Boulder
+818,Build Basic Generative Adversarial Networks (GANs),DeepLearning.AI
+819,Excel and Copilot Fundamentals,Microsoft
+820,Data Visualization with Python,IBM
+821,React Basics,Meta
+822,Responsible AI: Applying AI Principles with Google Cloud,Google Cloud
+823,Antibiotic Stewardship,Stanford University
+824,Investment and Portfolio Management,Rice University
+825,MBA Essentials,University of Glasgow
+826,A Law Student's Toolkit,Yale University
+827,Agile Leadership,University of Colorado System
+828,Inspired Leadership,Case Western Reserve University
+829,Building No-Code Apps with AppSheet,Google Cloud
+830,Healthcare Organization Operations,Rutgers the State University of New Jersey
+831,Diversity and Inclusion in Education,University of Glasgow
+832,Using Python to Access Web Data,University of Michigan
+833,"Data Modeling, Transformation, and Serving",DeepLearning.AI
+834,Global Environmental Management,Technical University of Denmark (DTU)
+835,Introduction to Genetics and Evolution,Duke University
+836,Dog Emotion and Cognition,Duke University
+837,Financial Reporting,University of Illinois Urbana-Champaign
+838,Akamai Customer Consulting and Support,"Akamai Technologies, Inc."
+839,Introduction to Chemistry:  Reactions and Ratios,Duke University
+840,PwC GST Taxation Executive,PwC India
+841,Medical Terminology I,Rice University
+842,"Lending, Crowdfunding, and Modern Investing",University of Pennsylvania
+843,Akamai Network Engineering,"Akamai Technologies, Inc."
+844,Office Productivity Software,SkillUp EdTech
+845,Introduction to Thermodynamics: Transferring Energy from Here to There,University of Michigan
+846,Advertising with Meta,Meta
+847,Programming with Google Go,"University of California, Irvine"
+848,Microsoft Azure AI Fundamentals AI-900 Exam Prep,Microsoft
+849,AI Engineering,Scrimba
+850,Fundamentals of Social Media Advertising,Meta
+851,Modeling and Simulation with Simulink,MathWorks
+852,The Art of Storytelling,IESE Business School
+853,Introduction to User Experience Design,Georgia Institute of Technology
+854,SAS Programmer,SAS
+855,Introductory C Programming,Duke University
+856,Sales Training for High Performing Teams,HubSpot Academy
+857,Introduction to Google SEO,"University of California, Davis"
+858,Python Basics,University of Michigan
+859,Game Design: Art and Concepts,California Institute of the Arts
+860,Google Advanced Data Analytics Capstone,Google
+861,Financial Acumen for Non-Financial Managers,University of Pennsylvania
+862,Regression Analysis: Simplify Complex Data Relationships,Google
+863,Financing and Investing in Infrastructure,UniversitÃ  Bocconi
+864,Arabic for Beginners,Khalifa University
+865,Oracle SQL Databases,LearnQuest
+866,Handicap visuel : comprendre et agir pour l'inclusion,University of Geneva
+867,Effective Compliance Programs,University of Pennsylvania
+868,MathWorks Computer Vision Engineer,MathWorks
+869,Payroll and Tax Fundamentals,"Automatic Data Processing, Inc. (ADP)"
+870,International Security Management,Erasmus University Rotterdam
+871,Clinical Terminology for International and U.S. Students,University of Pittsburgh
+872,ISC2 Healthcare Certificate,ISC2
+873,Market Research,Queen Mary University of London
+874,Business Analyst (ECBA) Certificate Preparationâ¯,SkillUp EdTech
+875,International Organizations Management,University of Geneva
+876,Problem Solving with Excel,PwC
+877,Managerial Economics and Business Analysis,University of Illinois Urbana-Champaign
+878,Precision Medicine,University of Geneva
+879,Kotlin for Java Developers,JetBrains
+880,Petroleum Engineering with AI Applications,L&T EduTech
+881,Introduction to Computer Vision and Image Processing,IBM
+882,Natural Language Processing in TensorFlow,DeepLearning.AI
+883,Microsoft Copilot: Your Everyday AI Companion,Microsoft
+884,Arm Cortex-M Architecture and Software Development,Arm
+885,Model Thinking,University of Michigan
+886,Learning and Development,HRCI
+887,Climate Change: Carbon Capture and Storage,The University of Edinburgh
+888,International Law In Action: Investigating and Prosecuting International Crimes,Universiteit Leiden
+889,Dino 101: Dinosaur Paleobiology,University of Alberta
+890,Reporting extra-financier et stratÃ©gie RSE,ESSEC Business School
+891,Business Analytics,University of Illinois Urbana-Champaign
+892,Doing more with Google Sheets,Google Cloud
+893,"Sequences, Time Series and Prediction",DeepLearning.AI
+894,"The Modern World, Part One: Global History from 1760 to 1910",University of Virginia
+895,Microsoft PL-300 Exam Preparation and Practice,Microsoft
+896,Supply Chain Management and Analytics,Unilever
+897,The Nuts and Bolts of Machine Learning,Google
+898,English for Journalism,University of Pennsylvania
+899,Tally Bookkeeper,Tally Education and Distribution Services Private Limited
+900,Wind Energy,Technical University of Denmark (DTU)
+901,Positive Psychology: Applications and Interventions,University of Pennsylvania
+902,Emergent Phenomena in Science and Everyday Life,"University of California, Irvine"
+903,SAS Advanced Programmer,SAS
+904,Survey Data Collection and Analytics,University of Michigan
+905,"Organizational Leadership in Diversity, Equity & Inclusion",Rice University
+906,Leadership Strategies for AI and Generative AI,Fractal Analytics
+907,Home-Based Child Care,The State University of New York
+908,3D Printing and Additive Manufacturing,University of Illinois Urbana-Champaign
+909,"GIS, Mapping, and Spatial Analysis",University of Toronto
+910,Visualizing the Living Body: Diagnostic Imaging,Yale University
+911,People Analytics,University of Pennsylvania
+912,Sustainable Fashion,Copenhagen Business School
+913,The Teacher and Social and Emotional Learning (SEL),University of Colorado Boulder
+914,Introduction to Cybersecurity Fundamentals,Coursera Instructor Network
+915,Foundations of Teaching for Learning: Being a Teacher,Commonwealth Education Trust
+916,Financial Planning for Young Adults,University of Illinois Urbana-Champaign
+917,Understanding Einstein: The Special Theory of Relativity,Stanford University
+918,"Introduction to Financial Analysis - The ""Why?""",University of Illinois Urbana-Champaign
+919,The Digital Marketing Revolution,University of Illinois Urbana-Champaign
+920,Preparing to Manage Human Resources,University of Minnesota
+921,The Science of Training Young Athletes,University of Florida
+922,Success with Integrity: Business Ethics Foundation,Coursera Instructor Network
+923,Positive Psychology,The University of North Carolina at Chapel Hill
+924,Digital Marketing Strategy and Planning,Digital Marketing Institute
+925,The Payroll Professional,"Automatic Data Processing, Inc. (ADP)"
+926,Excel Skills for Business: Intermediate I,Macquarie University
+927,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,University of Pennsylvania
+928,Introduction to Self-Driving Cars,University of Toronto
+929,Object-Oriented Data Structures in C++,University of Illinois Urbana-Champaign
+930,Essentials of Global Health,Yale University
+931,Operations Analytics,University of Pennsylvania
+932,Entrepreneurship Strategy: From Ideation to Exit,HEC Paris
+933,Fundamentals of Reinforcement Learning,University of Alberta
+934,Arts and Heritage Management,UniversitÃ  Bocconi
+935,How to Play Guitar,Berklee
+936,"Anatomy of the Chest, Neck, Abdomen, and Pelvis",Yale University
+937,Positive Psychology: Resilience Skills,University of Pennsylvania
+938,Introduction to Machine Learning,Duke University
+939,Advanced React,Meta
+940,Medical Terminology and the Human Body Fundamentals,MedCerts
+941,"Intro to Snowflake for Devs, Data Scientists, Data Engineers",Snowflake
+942,Business Sustainability in the Circular Economy,University of London
+943,Software Development Lifecycle,University of Minnesota
+944,Introduction to Sustainability,University of Illinois Urbana-Champaign
+945,Artful Practices for Well-Being,The Museum of Modern Art
+946,Privacy Law and Data Protection,University of Pennsylvania
+947,"The Modern World, Part Two: Global History since 1910",University of Virginia
+948,Medical Billing and Coding Essentials,MedCerts
+949,Introduction to Data Engineering,IBM
+950,BigQuery for Data Analysts,Google Cloud
+951,Security Principles,ISC2
+952,Spring Framework,LearnQuest
+953,Natural Language Processing with Attention Models,DeepLearning.AI
+954,Relationship Management and Business Development,Starweaver
+955,Sustainable Cities,Johns Hopkins University
+956,Suporte em TI do Google,Google
+957,Real Estate Property Management,Coursera Instructor Network
+958,Finding Your Professional Voice: Confidence & Impact,University of London
+959,Introduction to Cosmetic and Skincare Science,Olay
+960,Leadership in 21st Century Organizations,Copenhagen Business School
+961,Design Thinking for Innovation,University of Virginia
+962,Health Behavior Change: From Evidence to Action,Yale University
+963,Cost Accounting,Technical University of Munich (TUM)
+964,Generative AI: Elevate Your Data Science Career,IBM
+965,"The Sustainable Development Goals â A global, transdisciplinary vision for the future",University of Copenhagen
+966,Sustainable Agricultural Land Management,University of Florida
+967,Personal & Family Financial Planning,University of Florida
+968,FinTech: Finance Industry Transformation and Regulation,The Hong Kong University of Science and Technology
+969,Data Science Math Skills,Duke University
+970,MOST from a Conceptual Perspective,New York University
+971,3D CAD Fundamental,National Taiwan University
+972,Data Science: Statistics and Machine Learning,Johns Hopkins University
+973,Social Impact Strategy: Tools for Entrepreneurs and Innovators,University of Pennsylvania
+974,Introduction to Model-Based Systems Engineering,Siemens
+975,Geospatial Techniques for Engineers,L&T EduTech
+976,Feedback and Coaching For Everyone,Arizona State University
+977,Mathematics for Machine Learning: Multivariate Calculus,Imperial College London
+978,Climate Change and Sustainable Investing,EDHEC Business School
+979,From Data to Insights with Google Cloud,Google Cloud
+980,Creative Designing in Power BI,Microsoft
+981,Personal Branding: Stand Out and Succeed,University of Michigan
+982,User Interface Design,University of Minnesota
+983,Web3 and Blockchain Fundamentals,INSEAD
+984,Quality Improvement and Management,Board Infinity
+985,IntroducciÃ³n a la inteligencia artificial,Universidad Nacional AutÃ³noma de MÃ©xico
+986,Python for Cybersecurity,Infosec
+987,Strategic Thinking for Everyone,Arizona State University
+988,Math Prep: College & Work Ready,University of North Texas
+989,Rocket Science for Everyone,Yale University
+990,Strategic Technology Management,University of Illinois Urbana-Champaign
+991,"Introduction to Trading, Machine Learning & GCP",Google Cloud
+992,Introduction to Uncertainty Quantification,Johns Hopkins University
+993,Greek and Roman Mythology,University of Pennsylvania
+994,Natural Language Processing with Sequence Models,DeepLearning.AI
+995,Neuroscience of Leadership: Leading with Your Brain,University of Colorado Boulder
+996,International migrations: a global issue,Sciences Po
+997,Healthcare Marketplace,University of Minnesota
+998,"Introduction to HTML, CSS, & JavaScript",IBM
+999,Explainable AI (XAI),Duke University
+1000,Fundraising and Development,"University of California, Davis"
+1001,HTML and CSS in depth,Meta
+1002,Social Work Practice: Advocating Social Justice and Change,University of Michigan
+1003,Soporte de TecnologÃ­as de la InformaciÃ³n de Google,Google
+1004,Introduction to Data Analytics,Meta
+1005,Excel for Beginners: Introduction to Spreadsheets,Coursera Project Network
+1006,Blockchain: Foundations and Use Cases,ConsenSys Academy
+1007,Ãxito Profesional,"University of California, Irvine"
+1008,Go and C++:  Programming in Two Successor Languages of C,"University of California, Santa Cruz"

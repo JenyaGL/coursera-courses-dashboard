@@ -1,0 +1,716 @@
+skill_name,skill_id
+Network Security,1
+Python Programming,2
+Linux,3
+Cloud Computing,4
+Audit,5
+Computer Programming,6
+Computer Security Incident Management,7
+Cryptography,8
+Databases,9
+Leadership and Management,10
+Network Architecture,11
+Risk Management,12
+SQL,13
+Data Analysis,14
+R Programming,15
+SQL,16
+Spreadsheet Software,17
+Business Analysis,18
+Business Communication,19
+Data Visualization,20
+Data Management,21
+General Statistics,22
+Big Data,23
+Communication,24
+Data Science,25
+Data Visualization Software,26
+Exploratory Data Analysis,27
+Extract,28
+Transform,29
+Load,30
+Microsoft Excel,31
+Problem Solving,32
+Small Data,33
+Statistical Programming,34
+Tableau Software,35
+Project Management,36
+Strategy and Operations,37
+Collaboration,38
+Agile Software Development,39
+Software Engineering,40
+Entrepreneurship,41
+Scrum (Software Development),42
+Planning,43
+Supply Chain and Logistics,44
+Change Management,45
+Finance,46
+Organizational Development,47
+Product Management,48
+Budget Management,49
+Influencing,50
+Culture,51
+Emotional Intelligence,52
+People Management,53
+Procurement,54
+Digital Marketing,55
+Marketing,56
+Marketing Management,57
+Media Strategy & Planning,58
+Sales,59
+E-Commerce,60
+Data Analysis,61
+Social Media,62
+Search Engine Optimization,63
+Advertising,64
+Persona Research,65
+Strategy,66
+Web Design,67
+Web Development,68
+Web Development Tools,69
+Writing,70
+Market Analysis,71
+Computer Networking,72
+Network Analysis,73
+Networking Hardware,74
+Network Model,75
+Critical Thinking,76
+Computer Architecture,77
+Network Security,78
+Accounting,79
+Operating Systems,80
+System Security,81
+Customer Support,82
+Machine Learning,83
+Machine Learning Algorithms,84
+Applied Machine Learning,85
+Algorithms,86
+Deep Learning,87
+Machine Learning Software,88
+Artificial Neural Networks,89
+Human Learning,90
+Statistical Machine Learning,91
+Regression,92
+Mathematics,93
+Tensorflow,94
+Reinforcement Learning,95
+User Experience,96
+User Experience Design,97
+User Research,98
+Human Computer Interaction,99
+Product Design,100
+Product Development,101
+Visual Design,102
+Web Development Tools,103
+Critical Thinking,104
+Python Programming,105
+Machine Learning,106
+Professional Development,107
+Data Mining,108
+Data Model,109
+IBM Cloud,110
+Plot (Graphics),111
+Probability & Statistics,112
+Writing,113
+Computer Vision,114
+Natural Language Processing,115
+Process Analysis,116
+Mathematical Theory & Analysis,117
+Linear Algebra,118
+Calculus,119
+Statistical Visualization,120
+Human Resources,121
+NoSQL,122
+Interactive Data Visualization,123
+Regression,124
+Software Testing,125
+Application Development,126
+Cloud API,127
+Cloud Applications,128
+Computer Programming Tools,129
+Visualization (Computer Graphics),130
+Software Engineering Tools,131
+Software As A Service,132
+Programming Principles,133
+Software Architecture,134
+Javascript,135
+Data Science,136
+Data Science,137
+Correlation And Dependence,138
+Cloud Computing,139
+Cloud Infrastructure,140
+Full-Stack Web Development,141
+Cloud Management,142
+Cloud Platforms,143
+Cloud Storage,144
+DevOps,145
+Continuous Integration,146
+Continuous Delivery,147
+Docker (Software),148
+Front-End Web Development,149
+Django (Web Framework),150
+Computer Science,151
+Kubernetes,152
+Mergers & Acquisitions,153
+React (web framework),154
+Software Engineering,155
+Security Engineering,156
+Software Security,157
+Mergers & Acquisitions,158
+Power BI,159
+Data Mining,160
+Business Transformation,161
+Project Management,162
+Communication,163
+Probability Distribution,164
+Project Management,165
+Statistical Analysis,166
+Basic Descriptive Statistics,167
+Statistical Tests,168
+Accounting,169
+General Accounting,170
+Decision Making,171
+Financial Accounting,172
+Account Management,173
+Accounts Payable and Receivable,174
+Cost Accounting,175
+Cash Management,176
+Financial Analysis,177
+Generally Accepted Accounting Principles (GAAP),178
+Brand Management,179
+Customer Analysis,180
+Market Analysis,181
+Marketing Design,182
+Product Marketing,183
+Product Strategy,184
+Performance Management,185
+Digital Marketing,186
+Estimation,187
+Market Research,188
+Human Resources Operations,189
+Talent Management,190
+Operations Management,191
+Python Programming,192
+Data Management,193
+Apache,194
+Data Engineering,195
+Distributed Computing Architecture,196
+Data Warehousing,197
+Data Architecture,198
+Database Administration,199
+Business Intelligence,200
+PostgreSQL,201
+Artificial Neural Networks,202
+Leadership Development,203
+Product Lifecycle,204
+Product Management,205
+Planning,206
+Microsoft Excel,207
+Data Engineering,208
+PostgreSQL,209
+Linux,210
+Data Analysis Software,211
+Data Structures,212
+Big Data,213
+Microsoft Excel,214
+Interactive Data Visualization,215
+HTML and CSS,216
+React (web framework),217
+User Experience,218
+Interactive Design,219
+Software Testing,220
+Business Analysis,221
+Innovation,222
+Business Design,223
+Business Development,224
+Research and Design,225
+Natural Language Processing,226
+Computer Programming,227
+Computational Thinking,228
+Computational Logic,229
+Database Application,230
+Theoretical Computer Science,231
+Database Design,232
+Database Theory,233
+Computer Networking,234
+HTML and CSS,235
+Other Web Frameworks,236
+Investment Management,237
+Taxes,238
+Management Accounting,239
+Entrepreneurship,240
+Business Process Management,241
+Finance,242
+Forecasting,243
+Financial Management,244
+Computer Programming,245
+Google Cloud Platform,246
+Marketing,247
+People Analysis,248
+Regulations and Compliance,249
+Software Engineering,250
+Customer Support,251
+Networking Hardware,252
+Reinforcement Learning,253
+Cloud Applications,254
+User Experience,255
+Information Technology,256
+Risk Management,257
+Computer Security Incident Management,258
+Cyberattacks,259
+Operations Management,260
+Social Media,261
+Calculus,262
+Differential Equations,263
+Algebra,264
+Statistical Analysis,265
+Data Architecture,266
+Feature Engineering,267
+Strategy,268
+Data Visualization,269
+DevOps,270
+Data Analysis,271
+React (web framework),272
+Mobile Development,273
+Mobile Development Tools,274
+Cross Platform Development,275
+Machine Learning,276
+Inventory Management,277
+Accounting Software,278
+Taxes,279
+Banking,280
+Behavioral Economics,281
+Underwriting,282
+Artificial Neural Networks,283
+Human Resources,284
+Audit,285
+Data Visualization,286
+Creativity,287
+Data Structures,288
+Small Data,289
+Leadership and Management,290
+Cloud-Based Integration,291
+Cloud Standards,292
+System Software,293
+Communication,294
+Mobile Development,295
+Android Development,296
+Other Programming Languages,297
+Swift Programming,298
+Web Design,299
+Product Development,300
+Operations Research,301
+People Development,302
+Regulations and Compliance,303
+Product Strategy,304
+iOS Development,305
+Resilience,306
+Adaptability,307
+Back-End Web Development,308
+Semantic Web,309
+Linear Algebra,310
+FinTech,311
+BlockChain,312
+Payments,313
+Entrepreneurial Finance,314
+Securities Trading,315
+Business Transformation,316
+Visual Design,317
+Computer Graphics,318
+Computer Graphic Techniques,319
+Graphic Design,320
+Power BI,321
+Customer Success,322
+Human Learning,323
+Security Strategy,324
+Mobile Security,325
+Business Intelligence,326
+Benefits,327
+Compensation,328
+Employee Relations,329
+Negotiation,330
+Recruitment,331
+Training,332
+Software Engineering Tools,333
+Applied Machine Learning,334
+Network Architecture,335
+Leadership and Management,336
+SAS (Software),337
+Systems Design,338
+Training,339
+Operating Systems,340
+SQL,341
+Tableau Software,342
+Web Development,343
+Strategy,344
+Reinforcement Learning,345
+Tensorflow,346
+Mathematics,347
+Cloud Computing,348
+Storytelling,349
+Creativity,350
+Storytelling,351
+Spreadsheet Software,352
+Agile Software Development,353
+Design and Product,354
+Strategy,355
+Risk Management,356
+Business Research,357
+Conflict Management,358
+Resilience,359
+Supplier Relationship Management,360
+Regulations and Compliance,361
+Data Management,362
+Customer Relationship Management,363
+General Statistics,364
+Statistical Visualization,365
+Spreadsheet Software,366
+Microsoft Azure,367
+Entrepreneurship,368
+Business Psychology,369
+Adaptability,370
+Culture,371
+Experiment,372
+Java Programming,373
+Professional Development,374
+Feature Engineering,375
+Load,376
+Writing,377
+System Security,378
+Security Engineering,379
+Cloud Engineering,380
+Google App Engine,381
+Billing & Invoicing,382
+Google Cloud Platform,383
+Devops Tools,384
+Problem Solving,385
+User Research,386
+Kubernetes,387
+Network Analysis,388
+Other Cloud Platforms and Tools,389
+Cloud Load Balancing,390
+Dimensionality Reduction,391
+Resilience,392
+Human Factors (Security),393
+Databases,394
+Graphic Design,395
+Geometry,396
+Interactive Design,397
+Critical Thinking,398
+Corporate Accouting,399
+Management Accounting,400
+Supply Chain Systems,401
+Supplier Relationship Management,402
+Warehouse Management,403
+Transportation Operations Management,404
+Material Handling,405
+Shipping and Receiving,406
+Insurance Sales,407
+Basic Descriptive Statistics,408
+Algorithms,409
+Statistical Machine Learning,410
+Algorithms,411
+Human Resources,412
+Benefits,413
+Graph Theory,414
+Visual Design,415
+Amazon Web Services,416
+Computer Security Models,417
+Security Software,418
+Collaboration,419
+Financial Analysis,420
+Sales,421
+Salesforce,422
+Sales Systems,423
+B2B Sales,424
+Data Visualization Software,425
+Algebra,426
+Cryptography,427
+Linux,428
+Budget Management,429
+Machine Learning,430
+Design and Product,431
+Probability & Statistics,432
+Securities Sales,433
+Bioinformatics,434
+Biostatistics,435
+Correlation And Dependence,436
+Cloud API,437
+Cloud Infrastructure,438
+R Programming,439
+Javascript,440
+Mergers & Acquisitions,441
+People Management,442
+Strategy and Operations,443
+Human Learning,444
+Writing,445
+Graphic Design,446
+Operational Analysis,447
+People Analytics,448
+Strategic Thinking,449
+Innovation,450
+Cloud Storage,451
+Business Communication,452
+Continuous Delivery,453
+Theoretical Computer Science,454
+Finance,455
+Data Architecture,456
+Employee Relations,457
+Deep Learning,458
+Probability Distribution,459
+Probability & Statistics,460
+Javascript,461
+Brand Management,462
+Retail Sales,463
+C++ Programming,464
+Security Engineering,465
+Software-Defined Networking,466
+Human Factors (Security),467
+Financial Accounting,468
+Account Management,469
+Accounting,470
+Cyberattacks,471
+Creativity,472
+Estimation,473
+Product Design,474
+Knitr,475
+Human Learning,476
+System Security,477
+Procurement,478
+Financial Analysis,479
+Decision Making,480
+Game Theory,481
+Mathematical Theory & Analysis,482
+Contract Management,483
+Negotiation,484
+ArcGIS,485
+GIS Software,486
+Spatial Analysis,487
+Spatial Data Analysis,488
+Geovisualization,489
+Marketing,490
+Negotiation,491
+Cloud Clients,492
+Databases,493
+Visualization (Computer Graphics),494
+Computer Architecture,495
+Marketing Management,496
+Computer Graphics,497
+Industrial and Organizational Psychology,498
+Planning,499
+Retail Store Operations,500
+Supply Chain Systems,501
+C Programming Language Family,502
+Graph Theory,503
+Training,504
+Experiment,505
+Looker (Software),506
+Google Cloud Platform,507
+Estimation,508
+BlockChain,509
+Contract Management,510
+Security Strategy,511
+Hardware Design,512
+Microarchitecture,513
+System Programming,514
+Process Analysis,515
+Communication,516
+Health,517
+People Analysis,518
+Design and Product,519
+Critical Thinking,520
+Business Transformation,521
+Google App Engine,522
+Big Data,523
+Mathematics,524
+Matlab,525
+Supply Chain and Logistics,526
+Adaptability,527
+FinTech,528
+Internet Of Things,529
+User Experience Design,530
+Computational Logic,531
+Hardware Design,532
+Systems Design,533
+Operating Systems,534
+System Programming,535
+Data Model,536
+Marketing Psychology,537
+Retail Sales,538
+Technical Product Management,539
+Jira (Software),540
+Exploratory Data Analysis,541
+Prospecting and Qualification,542
+Networking Hardware,543
+Adaptability,544
+Clinical Data Management,545
+Financial Management,546
+Biostatistics,547
+Epidemiology,548
+Emotional Intelligence,549
+E-Commerce,550
+Research and Design,551
+Public Relations,552
+People Development,553
+Underwriting,554
+C Programming Language Family,555
+Taxes,556
+Business Analysis,557
+Problem Solving,558
+Mergers & Acquisitions,559
+Leadership and Management,560
+Security Strategy,561
+Public Relations,562
+Market Research,563
+Geostatistics,564
+Econometrics,565
+Bayesian Statistics,566
+Markov Model,567
+Forecasting,568
+Product Lifecycle,569
+Computer Vision,570
+Systems Design,571
+Statistical Programming,572
+Front-End Web Development,573
+Other Web Frameworks,574
+Behavioral Economics,575
+Journalism,576
+Human Computer Interaction,577
+Artificial Neural Networks,578
+Applied Mathematics,579
+Project Management,580
+Culture,581
+Combinatorics,582
+Sales,583
+Plot (Graphics),584
+Data Structures,585
+Decision Making,586
+Strategy and Operations,587
+Organizational Development,588
+Java Programming,589
+Process Analysis,590
+Apache,591
+NoSQL,592
+Cash Management,593
+Problem Solving,594
+Performance Management,595
+Epidemiology,596
+Docker (Software),597
+Recruitment,598
+Bayesian Network,599
+Data Analysis Software,600
+Software Architecture,601
+Storytelling,602
+Database Design,603
+Game Theory,604
+Natural Language Processing,605
+Salesforce,606
+Business Development,607
+Deep Learning,608
+Procurement,609
+Warehouse Management,610
+Machine Learning Algorithms,611
+Audit,612
+Payments,613
+Resilience,614
+Investment Management,615
+Computer Science,616
+Collaboration,617
+Business Psychology,618
+Professional Development,619
+Operations Management,620
+Product Management,621
+Agile Software Development,622
+Advertising,623
+Advertising Sales,624
+Compensation,625
+Leadership Development,626
+Public Relations,627
+Banking,628
+Programming Principles,629
+Bayesian Network,630
+Operations Management,631
+Transportation Operations Management,632
+Statistical Programming,633
+Bioinformatics,634
+Clinical Data Management,635
+General Statistics,636
+Software-Defined Networking,637
+Inventory Management,638
+Financial Management,639
+Software Visualization,640
+Health,641
+iOS Development,642
+Change Management,643
+Shipping and Receiving,644
+Market Research,645
+Survey Creation,646
+Digital Marketing,647
+Mobile Development Tools,648
+Brand Management,649
+Marketing,650
+Epidemiology,651
+Software Testing,652
+Software Testing,653
+Cloud Computing,654
+Contract Management,655
+Internet Of Things,656
+Graphics Software,657
+Influencing,658
+Business Process Management,659
+Other Mobile Programming Languages,660
+Conflict Management,661
+Customer Relationship Management,662
+Combinatorics,663
+Machine Learning Software,664
+Computational Thinking,665
+General Statistics,666
+Network Security,667
+Microsoft Azure,668
+Store Management,669
+Change Management,670
+Data Warehousing,671
+Planning,672
+Bayesian Statistics,673
+Innovation,674
+Network Model,675
+Computer Programming,676
+Securities Trading,677
+Creativity,678
+IBM Cloud,679
+Epidemiology,680
+Scala Programming,681
+Angular,682
+Spatial Analysis,683
+Deep Learning,684
+Scrum (Software Development),685
+Application Development,686
+Mobile Development,687
+Customer Relationship Management,688
+Feature Engineering,689
+Inventory Management,690
+SAS (Software),691
+Inside Sales,692
+Business Process Management,693
+Search Engine Optimization,694
+Database Administration,695
+Scientific Visualization,696
+Taxes,697
+Information Technology,698
+Market Analysis,699
+Computer Vision,700
+Journalism,701
+Accounting Software,702
+Emotional Intelligence,703
+Data Analysis,704
+Web Development,705
+Software Framework,706
+Natural Language Processing,707
+Business Development,708
+Cost Accounting,709
+Investment Management,710
+Database Theory,711
+BlockChain,712
+Business,713
+Microsoft Excel,714
+Advertising,715

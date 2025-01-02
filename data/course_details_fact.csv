@@ -1,0 +1,1009 @@
+course_id,certificate type,rating,reviews,coursera plus,towards degree,difficulty
+1,Professional Certificate,4.8,43000,False,True,Beginner
+2,Professional Certificate,4.8,159000,False,True,Beginner
+3,Professional Certificate,4.8,120000,False,True,Beginner
+4,Professional Certificate,4.8,34000,False,True,Beginner
+5,Professional Certificate,4.8,196000,False,True,Beginner
+6,Specialization,4.9,30000,False,True,Beginner
+7,Professional Certificate,4.8,86000,False,True,Beginner
+8,Course,4.7,8000,False,False,Beginner
+9,Professional Certificate,4.6,137000,False,True,Beginner
+10,Specialization,4.8,145000,False,True,Intermediate
+11,Professional Certificate,4.6,86000,False,True,Beginner
+12,Professional Certificate,4.6,77000,False,False,Beginner
+13,Professional Certificate,4.6,60000,False,True,Beginner
+14,Specialization,4.6,108000,False,False,Beginner
+15,Professional Certificate,4.6,51000,False,True,Beginner
+16,Professional Certificate,4.6,55000,False,True,Beginner
+17,Professional Certificate,4.6,5800,False,True,Beginner
+18,Specialization,4.7,1900,False,False,Beginner
+19,Course,4.8,45000,False,False,Beginner
+20,Professional Certificate,4.7,5200,False,True,Advanced
+21,Specialization,4.6,68000,False,True,Beginner
+22,Professional Certificate,4.6,45000,False,False,Beginner
+23,Specialization,4.6,95000,False,True,Beginner
+24,Specialization,4.7,25000,False,False,Beginner
+25,Specialization,4.6,44000,False,False,Beginner
+26,Professional Certificate,4.6,55000,False,True,Beginner
+27,Specialization,4.6,56000,False,True,Beginner
+28,Professional Certificate,4.7,20000,False,False,Beginner
+29,Course,4.9,89000,False,False,Beginner
+30,Course,4.8,109000,False,False,Beginner
+31,Course,4.7,194,False,False,Beginner
+32,Specialization,4.6,53000,False,False,Beginner
+33,Specialization,4.7,95000,False,False,Beginner
+34,Course,4.8,29000,False,True,Beginner
+35,Professional Certificate,4.7,26000,False,True,Beginner
+36,Course,4.9,25000,False,False,Beginner
+37,Specialization,4.7,25000,False,True,Beginner
+38,Professional Certificate,4.7,21000,False,True,Beginner
+39,Specialization,4.7,40000,False,False,Beginner
+40,Specialization,4.8,275000,False,True,Beginner
+41,Specialization,4.6,14000,False,False,Beginner
+42,Specialization,4.7,88000,False,False,Beginner
+43,Specialization,4.5,16000,False,False,Beginner
+44,Professional Certificate,4.7,47000,False,False,Beginner
+45,Specialization,4.7,21000,False,False,Beginner
+46,Professional Certificate,4.6,5800,False,False,Beginner
+47,Professional Certificate,4.8,20000,False,True,Beginner
+48,Specialization,4.7,1100,False,False,Beginner
+49,Professional Certificate,4.7,347,False,False,Beginner
+50,Professional Certificate,4.6,5500,False,False,Beginner
+51,Course,4.8,3000,False,False,Intermediate
+52,Course,4.8,155000,False,False,Beginner
+53,Professional Certificate,4.6,19000,False,True,Intermediate
+54,Professional Certificate,4.6,4900,False,False,Beginner
+55,Professional Certificate,4.6,4600,False,False,Beginner
+56,Professional Certificate,4.7,15000,False,False,Beginner
+57,Professional Certificate,4.7,6600,False,False,Beginner
+58,Professional Certificate,4.7,12000,False,False,Beginner
+59,Course,4.8,24000,False,False,Beginner
+60,Specialization,4.6,2500,False,False,Intermediate
+61,Professional Certificate,4.8,278,False,False,Intermediate
+62,Specialization,4.5,11000,False,False,Beginner
+63,Course,4.8,2700,False,False,Beginner
+64,Professional Certificate,4.7,13000,False,False,Beginner
+65,Professional Certificate,4.8,7700,False,False,Beginner
+66,Professional Certificate,4.7,11000,False,False,Beginner
+67,Specialization,4.7,3900,False,False,Intermediate
+68,Specialization,4.7,3900,False,False,Intermediate
+69,Specialization,4.7,3900,False,False,Intermediate
+70,Specialization,4.6,9900,False,False,Beginner
+71,Specialization,4.7,4000,False,False,Beginner
+72,Professional Certificate,4.6,6700,False,False,Beginner
+73,Specialization,4.7,3900,False,False,Intermediate
+74,Course,4.8,29000,False,False,Beginner
+75,Specialization,4.7,3800,False,False,Intermediate
+76,Specialization,4.7,3800,False,False,Intermediate
+77,Specialization,4.6,7000,False,False,Intermediate
+78,Specialization,4.7,3800,False,False,Intermediate
+79,Course,4.8,8300,False,False,Beginner
+80,Specialization,4.7,3800,False,False,Intermediate
+81,Specialization,4.7,3800,False,False,Intermediate
+82,Specialization,4.8,5000,False,False,Beginner
+83,Specialization,4.8,5000,False,False,Beginner
+84,Course,4.8,11,False,False,Beginner
+85,Course,4.7,33000,False,False,Beginner
+86,Course,4.8,22000,False,False,Beginner
+87,Professional Certificate,4.7,1100,False,False,Beginner
+88,Specialization,4.8,4700,False,False,Beginner
+89,Specialization,4.8,4800,False,False,Beginner
+90,Course,4.8,23000,False,False,Mixed
+91,Specialization,4.8,4600,False,False,Beginner
+92,Specialization,4.8,4900,False,False,Beginner
+93,Specialization,4.8,4600,False,False,Beginner
+94,Specialization,4.8,4600,False,False,Beginner
+95,Professional Certificate,4.6,7900,False,True,Beginner
+96,Specialization,4.8,4500,False,False,Beginner
+97,Course,4.8,70000,False,False,Beginner
+98,Specialization,4.6,18000,False,False,Beginner
+99,Specialization,4.8,4900,False,False,Beginner
+100,Professional Certificate,4.8,2800,False,False,Beginner
+101,Professional Certificate,4.6,7500,False,True,Beginner
+102,Specialization,4.8,4500,False,False,Beginner
+103,Specialization,4.8,7900,False,False,Beginner
+104,Professional Certificate,4.6,8600,False,True,Beginner
+105,Professional Certificate,4.7,25000,False,False,Intermediate
+106,Specialization,4.8,4500,False,False,Beginner
+107,Specialization,4.6,6000,False,False,Intermediate
+108,Specialization,4.6,3700,False,False,Beginner
+109,Specialization,4.7,4700,False,False,Beginner
+110,Professional Certificate,4.7,10000,False,False,Beginner
+111,Professional Certificate,4.9,20000,False,False,Beginner
+112,Professional Certificate,4.6,25000,False,True,Beginner
+113,Professional Certificate,4.7,2300,False,True,Advanced
+114,Professional Certificate,4.8,1900,False,False,Beginner
+115,Specialization,4.6,9500,False,False,Beginner
+116,Specialization,4.7,4500,False,False,Beginner
+117,Specialization,4.6,22000,False,False,Beginner
+118,Course,4.9,6900,False,False,Beginner
+119,Specialization,4.7,11000,False,False,Beginner
+120,Course,4.8,5400,False,False,Beginner
+121,Course,4.5,207,False,False,Mixed
+122,Professional Certificate,4.6,580,False,False,Beginner
+123,Professional Certificate,4.7,5400,False,False,Beginner
+124,Professional Certificate,4.6,6600,False,False,Beginner
+125,Specialization,4.8,4300,False,False,Beginner
+126,Specialization,4.5,145,False,False,Intermediate
+127,Specialization,4.6,9200,False,False,Beginner
+128,Course,4.9,122000,False,False,Intermediate
+129,Course,4.7,50000,False,False,Beginner
+130,Specialization,4.6,11000,False,False,Beginner
+131,Professional Certificate,4.8,4100,False,False,Beginner
+132,Professional Certificate,4.7,6400,False,True,Intermediate
+133,Specialization,4.7,20000,False,False,Beginner
+134,Course,4.8,21000,False,False,Beginner
+135,Specialization,4.7,9400,False,False,Beginner
+136,Specialization,4.7,1200,False,False,Beginner
+137,Specialization,4.9,19000,False,False,Beginner
+138,Specialization,4.8,2400,False,False,Intermediate
+139,Course,4.9,30000,False,False,Beginner
+140,Specialization,4.7,23000,False,False,Beginner
+141,Course,4.8,13000,False,False,Beginner
+142,Course,4.6,3700,False,False,Beginner
+143,Course,4.8,6400,False,False,Beginner
+144,Specialization,4.9,61000,False,False,Beginner
+145,Professional Certificate,4.7,606,False,False,Beginner
+146,Specialization,4.8,848,False,False,Beginner
+147,Professional Certificate,4.7,601,False,False,Beginner
+148,Specialization,4.8,5500,False,False,Beginner
+149,Professional Certificate,4.7,3300,False,False,Beginner
+150,Specialization,4.5,1800,False,False,Beginner
+151,Professional Certificate,4.7,246,False,False,Beginner
+152,Course,4.8,4700,False,False,Beginner
+153,Specialization,4.7,27000,False,False,Beginner
+154,Professional Certificate,4.5,3400,False,False,Intermediate
+155,Professional Certificate,4.5,7000,False,False,Intermediate
+156,Course,4.9,9000,False,False,Beginner
+157,Specialization,4.8,1100,False,False,Beginner
+158,Professional Certificate,4.7,59000,False,False,Intermediate
+159,Professional Certificate,4.7,59000,False,False,Intermediate
+160,Course,4.8,17000,False,False,Beginner
+161,Course,4.8,13000,False,False,Beginner
+162,Course,4.8,16000,False,False,Beginner
+163,Specialization,4.7,58000,False,False,Intermediate
+164,Professional Certificate,4.6,208,False,False,Beginner
+165,Professional Certificate,4.7,49000,False,False,Intermediate
+166,Professional Certificate,4.6,2700,False,True,Intermediate
+167,Course,4.9,39000,False,False,Mixed
+168,Specialization,4.7,9000,False,False,Beginner
+169,Specialization,4.7,49000,False,False,Intermediate
+170,Specialization,4.7,21000,False,False,Beginner
+171,Professional Certificate,4.7,241,False,False,Beginner
+172,Specialization,4.8,6100,False,False,Beginner
+173,Course,4.8,9000,False,False,Beginner
+174,Specialization,4.6,18000,False,False,Beginner
+175,Professional Certificate,4.7,54000,False,False,Beginner
+176,Specialization,4.8,1100,False,False,Beginner
+177,Professional Certificate,4.7,2200,False,False,Beginner
+178,Specialization,4.7,15000,False,False,Beginner
+179,Course,4.8,1100,False,False,Beginner
+180,Specialization,4.6,1900,False,False,Beginner
+181,Course,4.9,42,False,False,Beginner
+182,Specialization,4.6,2600,False,False,Intermediate
+183,Professional Certificate,4.7,1100,False,False,Beginner
+184,Course,4.9,4000,False,False,Beginner
+185,Specialization,4.6,13000,False,False,Beginner
+186,Specialization,4.8,15000,False,False,Beginner
+187,Specialization,4.8,5900,False,False,Intermediate
+188,Professional Certificate,4.6,107,False,False,Beginner
+189,Specialization,4.8,6000,False,False,Beginner
+190,Professional Certificate,4.8,6200,False,True,Intermediate
+191,Course,4.7,217,False,False,Beginner
+192,Specialization,4.6,251,False,False,Beginner
+193,Specialization,4.8,5100,False,False,Beginner
+194,Professional Certificate,4.7,50000,False,True,Intermediate
+195,Professional Certificate,4.7,49000,False,False,Intermediate
+196,Course,4.6,11000,False,False,Beginner
+197,Professional Certificate,4.6,1700,False,True,Beginner
+198,Professional Certificate,4.1,172,False,False,Beginner
+199,Specialization,4.8,826,False,False,Beginner
+200,Specialization,4.6,15000,False,False,Beginner
+201,Course,4.8,3100,False,False,Beginner
+202,Course,4.6,1800,False,False,Intermediate
+203,Specialization,4.8,1100,False,True,Beginner
+204,Professional Certificate,4.8,5900,False,False,Beginner
+205,Course,4.8,8500,False,True,Mixed
+206,Course,4.7,298,False,False,Beginner
+207,Professional Certificate,4.8,6100,False,True,Beginner
+208,Specialization,4.8,1400,False,False,Intermediate
+209,Specialization,4.7,2300,False,False,Intermediate
+210,Specialization,4.7,49000,False,False,Intermediate
+211,Course,4.8,10000,False,False,Beginner
+212,Course,4.7,28000,False,False,Beginner
+213,Specialization,4.5,331,False,False,Intermediate
+214,Specialization,4.5,6500,False,False,Intermediate
+215,Specialization,4.7,49000,False,False,Intermediate
+216,Professional Certificate,4.7,4400,False,False,Beginner
+217,Specialization,4.7,49000,False,False,Intermediate
+218,Professional Certificate,4.7,731,False,False,Beginner
+219,Professional Certificate,4.3,8,False,False,Beginner
+220,Course,4.8,3200,False,False,Intermediate
+221,Course,4.8,11000,False,False,Beginner
+222,Specialization,4.4,1100,False,False,Beginner
+223,Specialization,4.6,436,False,False,Intermediate
+224,Course,4.8,1600,False,False,Beginner
+225,Course,4.6,250,False,False,Beginner
+226,Course,4.9,63000,False,False,Intermediate
+227,Specialization,4.9,4100,False,False,Beginner
+228,Specialization,4.7,2000,False,False,Beginner
+229,Professional Certificate,4.4,103,False,False,Beginner
+230,Professional Certificate,4.8,2200,False,False,Beginner
+231,Specialization,4.8,9500,False,True,Beginner
+232,Specialization,4.8,7500,False,False,Beginner
+233,Specialization,4.8,5900,False,False,Intermediate
+234,Course,4.6,9200,False,False,Beginner
+235,Specialization,4.7,3500,False,False,Advanced
+236,Course,4.8,20000,False,False,Mixed
+237,Specialization,4.8,22000,False,False,Beginner
+238,Professional Certificate,4.6,19000,False,False,Intermediate
+239,Course,4.6,39000,False,False,Beginner
+240,Course,4.7,33000,False,False,Beginner
+241,Specialization,4.7,4700,False,False,Beginner
+242,Specialization,4.5,9700,False,False,Intermediate
+243,Specialization,4.7,4100,False,False,Beginner
+244,Course,4.8,230000,False,False,Beginner
+245,Course,4.8,39000,False,False,Beginner
+246,Specialization,4.6,18000,False,False,Intermediate
+247,Course,4.8,3100,False,False,Intermediate
+248,Course,4.8,4500,False,False,Beginner
+249,Course,,0,False,False,Advanced
+250,Course,4.8,3300,False,False,Beginner
+251,Specialization,4.7,2300,False,False,Intermediate
+252,Course,4.6,5500,False,False,Beginner
+253,Course,4.8,2600,False,False,Beginner
+254,Course,4.8,236,False,False,Intermediate
+255,Course,4.8,16000,False,False,Beginner
+256,Course,4.7,25000,False,False,Beginner
+257,Professional Certificate,4.8,4200,False,False,Beginner
+258,Course,4.8,16000,False,False,Mixed
+259,Course,4.6,261,False,False,Beginner
+260,Specialization,4.6,1200,False,False,Beginner
+261,Specialization,4.6,7500,False,False,Beginner
+262,Professional Certificate,4.8,2300,False,False,Beginner
+263,Course,4.7,2600,False,False,Beginner
+264,Professional Certificate,4.7,37,False,False,Beginner
+265,Course,4.7,5900,False,False,Mixed
+266,Specialization,4.6,17000,False,False,Intermediate
+267,Specialization,4.8,112,False,False,Beginner
+268,Professional Certificate,4.7,3000,False,False,Beginner
+269,Course,4.7,2400,False,False,Beginner
+270,Specialization,4.7,3200,False,False,Beginner
+271,Specialization,4.9,2200,False,False,Intermediate
+272,Specialization,4.7,673,False,False,Beginner
+273,Specialization,4.6,44000,False,False,Beginner
+274,Specialization,4.8,2500,False,False,Intermediate
+275,Professional Certificate,4.7,280,False,False,Beginner
+276,Specialization,4.7,37000,False,False,Beginner
+277,Specialization,4.6,590,False,False,Beginner
+278,Specialization,4.7,3400,False,False,Intermediate
+279,Specialization,4.8,1600,False,False,Intermediate
+280,Course,4.8,566,False,False,Mixed
+281,Course,4.9,9000,False,False,Beginner
+282,Specialization,4.5,324,False,False,Beginner
+283,Course,4.7,8200,False,False,Mixed
+284,Specialization,4.5,51000,False,False,Beginner
+285,Specialization,4.7,7800,False,False,Beginner
+286,Specialization,4.7,30000,False,False,Beginner
+287,Specialization,4.8,9500,False,False,Beginner
+288,Specialization,4.9,721,False,False,Beginner
+289,Course,4.8,4000,False,False,Beginner
+290,Course,4.7,3600,False,False,Beginner
+291,Specialization,4.7,265,False,False,Beginner
+292,Specialization,4.8,599,False,False,Beginner
+293,Course,4.9,42000,False,False,Intermediate
+294,Specialization,4.6,21000,False,False,Beginner
+295,Specialization,4.8,595,False,False,Beginner
+296,Course,4.7,2700,False,False,Advanced
+297,Specialization,4.7,2300,False,False,Beginner
+298,Specialization,4.7,418,False,False,Beginner
+299,Specialization,4.1,365,False,False,Advanced
+300,Course,4.6,9000,False,False,Mixed
+301,Specialization,3.9,1100,False,False,Intermediate
+302,Specialization,4.4,675,False,False,Beginner
+303,Course,4.6,4800,False,False,Beginner
+304,Course,4.8,30000,False,False,Intermediate
+305,Course,4.8,20000,False,False,Beginner
+306,Professional Certificate,4.5,19,False,False,Beginner
+307,Course,4.8,50000,False,False,Beginner
+308,Professional Certificate,4.8,100,False,False,Beginner
+309,Course,4.8,24000,False,False,Beginner
+310,Specialization,4.8,6200,False,False,Beginner
+311,Course,4.8,2400,False,False,Beginner
+312,Course,4.9,7400,False,False,Beginner
+313,Course,4.8,5000,False,False,Mixed
+314,Specialization,4.6,3200,False,False,Beginner
+315,Specialization,4.6,48000,False,False,Beginner
+316,Professional Certificate,4.6,1200,False,False,Intermediate
+317,Course,4.8,14000,False,False,Beginner
+318,Specialization,4.7,358,False,False,Beginner
+319,Course,4.8,3400,False,False,Mixed
+320,Course,4.6,1800,False,False,Mixed
+321,Specialization,4.5,34000,False,False,Intermediate
+322,Specialization,4.7,11000,False,False,Beginner
+323,Course,4.8,1500,False,False,Advanced
+324,Course,4.8,4400,False,False,Mixed
+325,Course,4.8,5600,False,False,Beginner
+326,Specialization,4.7,371,False,False,Beginner
+327,Specialization,4.7,3400,False,False,Intermediate
+328,Course,4.0,726,False,False,Mixed
+329,Specialization,4.6,6200,False,False,Beginner
+330,Specialization,4.6,652,False,False,Intermediate
+331,Specialization,4.6,22000,False,False,Beginner
+332,Course,4.7,34,False,False,Beginner
+333,Specialization,4.7,1200,False,False,Intermediate
+334,Course,4.8,27,False,False,Beginner
+335,Course,4.8,17000,False,False,Beginner
+336,Specialization,4.7,1200,False,False,Beginner
+337,Specialization,4.6,3000,False,False,Beginner
+338,Specialization,4.7,368,False,False,Beginner
+339,Specialization,4.7,2500,False,True,Intermediate
+340,Specialization,4.6,8900,False,False,Intermediate
+341,Specialization,4.5,652,False,False,Beginner
+342,Specialization,4.5,1700,False,True,Intermediate
+343,Specialization,4.8,1000,False,False,Beginner
+344,Course,4.8,595,False,False,Beginner
+345,Course,4.8,13000,False,False,Mixed
+346,Course,4.6,1800,False,False,Beginner
+347,Course,4.9,3000,False,False,Beginner
+348,Specialization,4.7,7300,False,True,Beginner
+349,Specialization,4.6,15000,False,False,Beginner
+350,Specialization,4.8,1100,False,False,Beginner
+351,Course,4.7,76,False,False,Beginner
+352,Specialization,4.6,179,False,False,Beginner
+353,Course,4.8,5000,False,False,Beginner
+354,Course,4.6,1600,False,False,Beginner
+355,Course,4.7,5000,False,False,Mixed
+356,Specialization,4.8,15000,False,False,Beginner
+357,Specialization,4.7,7200,False,False,Beginner
+358,Course,4.7,483,False,False,Mixed
+359,Course,4.7,74000,False,False,Beginner
+360,Specialization,4.7,1100,False,False,Intermediate
+361,Specialization,4.8,676,False,False,Beginner
+362,Specialization,4.6,16000,False,False,Beginner
+363,Professional Certificate,4.7,593,False,False,Beginner
+364,Course,4.7,10000,False,False,Beginner
+365,Course,4.8,91000,False,False,Beginner
+366,Course,4.8,4400,False,False,Beginner
+367,Course,4.9,2800,False,False,Advanced
+368,Specialization,4.7,3000,False,False,Beginner
+369,Specialization,4.7,3500,False,False,Beginner
+370,Course,4.7,1700,False,False,Beginner
+371,Course,4.6,4500,False,False,Intermediate
+372,Course,4.9,3600,False,False,Mixed
+373,Professional Certificate,4.7,1200,False,False,Intermediate
+374,Professional Certificate,4.8,11000,False,False,Beginner
+375,Specialization,4.7,6100,False,False,Intermediate
+376,Professional Certificate,4.7,230,False,False,Beginner
+377,Specialization,4.8,5100,False,False,Beginner
+378,Specialization,4.8,896,False,False,Beginner
+379,Course,4.6,6100,False,False,Mixed
+380,Course,3.9,989,False,False,Beginner
+381,Course,4.6,533,False,False,Beginner
+382,Course,4.7,9100,False,False,Beginner
+383,Specialization,4.8,3800,False,False,Beginner
+384,Course,4.7,297,False,False,Beginner
+385,Professional Certificate,4.9,9900,False,False,Beginner
+386,Specialization,4.6,151,False,False,Intermediate
+387,Specialization,4.5,109,False,False,Intermediate
+388,Course,4.8,1400,False,False,Advanced
+389,Course,4.8,11000,False,False,Mixed
+390,Specialization,4.7,434,False,False,Beginner
+391,Course,4.7,954,False,False,Beginner
+392,Course,4.8,8700,False,False,Beginner
+393,Course,4.8,3600,False,False,Beginner
+394,Course,4.7,6000,False,False,Beginner
+395,Specialization,4.7,3100,False,False,Beginner
+396,Course,4.8,1800,False,False,Beginner
+397,Specialization,4.7,6600,False,True,Intermediate
+398,Specialization,4.8,2300,False,False,Beginner
+399,Specialization,4.7,164,False,False,Beginner
+400,Specialization,4.8,12000,False,False,Beginner
+401,Course,4.8,1600,False,False,Beginner
+402,Course,4.7,391,False,False,Beginner
+403,Specialization,4.7,502,False,False,Intermediate
+404,Professional Certificate,4.6,34,False,False,Beginner
+405,Course,4.7,4100,False,False,Mixed
+406,Specialization,4.7,2600,False,False,Beginner
+407,Course,4.5,5000,False,False,Intermediate
+408,Specialization,4.5,9300,False,False,Intermediate
+409,Specialization,4.5,9300,False,False,Beginner
+410,Specialization,4.8,887,False,True,Intermediate
+411,Specialization,4.7,7500,False,False,Beginner
+412,Course,4.7,2500,False,False,Mixed
+413,Course,4.9,15000,False,False,Mixed
+414,Specialization,4.8,2900,False,False,Beginner
+415,Specialization,4.2,2600,False,False,Beginner
+416,Specialization,4.8,1800,False,False,Beginner
+417,Specialization,4.7,4200,False,False,Beginner
+418,Course,4.6,339,False,False,Mixed
+419,Course,4.8,3500,False,False,Beginner
+420,Professional Certificate,4.8,1500,False,False,Beginner
+421,Professional Certificate,4.5,19,False,False,Beginner
+422,Specialization,4.7,1800,False,False,Beginner
+423,Course,4.8,5000,False,False,Mixed
+424,Specialization,4.6,3500,False,False,Intermediate
+425,Specialization,4.3,71,False,False,Intermediate
+426,Course,4.8,3700,False,False,Intermediate
+427,Specialization,4.6,6100,False,False,Beginner
+428,Course,4.7,753,False,False,Beginner
+429,Course,4.5,982,False,False,Beginner
+430,Course,4.7,21000,False,False,Beginner
+431,Specialization,4.6,6800,False,False,Beginner
+432,Specialization,4.5,17,False,False,Intermediate
+433,Course,4.9,96000,False,False,Beginner
+434,Course,4.8,1100,False,False,Intermediate
+435,Specialization,4.4,75,False,False,Beginner
+436,Course,4.8,20000,False,False,Intermediate
+437,Specialization,4.3,353,False,True,Advanced
+438,Course,4.8,783,False,False,Beginner
+439,Course,4.7,16000,False,False,Beginner
+440,Specialization,4.7,22000,False,False,Beginner
+441,Course,4.6,1300,False,False,Beginner
+442,Specialization,4.3,1200,False,False,Beginner
+443,Specialization,4.7,35000,False,False,Beginner
+444,Specialization,4.8,4600,False,False,Intermediate
+445,Specialization,4.8,536,False,False,Beginner
+446,Specialization,4.7,4300,False,False,Intermediate
+447,Course,4.4,4200,False,False,Beginner
+448,Specialization,4.7,11000,False,False,Beginner
+449,Specialization,4.8,5400,False,False,Intermediate
+450,Course,4.8,3700,False,False,Mixed
+451,Course,4.7,1600,False,False,Beginner
+452,Specialization,4.6,1600,False,False,Beginner
+453,Course,4.7,19000,False,False,Intermediate
+454,Course,4.9,553,False,False,Beginner
+455,Course,4.7,607,False,False,Beginner
+456,Course,4.8,761,False,False,Intermediate
+457,Specialization,4.7,636,False,True,Advanced
+458,Course,4.8,4300,False,False,Beginner
+459,Course,4.8,19,False,False,Beginner
+460,Specialization,4.8,2500,False,False,Beginner
+461,Specialization,4.8,4200,False,False,Beginner
+462,Course,4.8,12000,False,False,Beginner
+463,Specialization,4.8,10000,False,False,Beginner
+464,Course,4.9,51000,False,False,Beginner
+465,Professional Certificate,4.4,296,False,False,Intermediate
+466,Specialization,4.4,289,False,False,Intermediate
+467,Specialization,4.5,3600,False,False,Beginner
+468,Course,4.7,2300,False,False,Beginner
+469,Professional Certificate,4.9,6200,False,False,Beginner
+470,Course,4.9,49000,False,False,Beginner
+471,Course,4.8,5000,False,False,Beginner
+472,Course,4.5,1200,False,False,Beginner
+473,Course,4.8,4100,False,False,Beginner
+474,Specialization,4.7,4500,False,False,Beginner
+475,Course,4.8,2800,False,False,Intermediate
+476,Specialization,4.8,1000,False,False,Beginner
+477,Course,4.7,57,False,False,Intermediate
+478,Specialization,4.5,86,False,False,Intermediate
+479,Specialization,4.7,3600,False,False,Beginner
+480,Course,4.8,5200,False,False,Mixed
+481,Course,4.8,1800,False,False,Beginner
+482,Specialization,4.9,94,False,False,Beginner
+483,Specialization,4.7,437,False,False,Beginner
+484,Professional Certificate,4.6,235,False,False,Beginner
+485,Course,4.6,486,False,False,Intermediate
+486,Specialization,4.8,7400,False,False,Beginner
+487,Course,4.7,4900,False,False,Beginner
+488,Specialization,4.5,2900,False,False,Intermediate
+489,Specialization,4.3,668,False,False,Beginner
+490,Specialization,4.5,690,False,False,Beginner
+491,Course,4.6,17000,False,False,Beginner
+492,Course,4.6,2500,False,False,Beginner
+493,Course,4.7,5900,False,False,Mixed
+494,Specialization,4.7,1200,False,False,Beginner
+495,Specialization,4.8,3300,False,False,Beginner
+496,Course,4.7,6400,False,False,Beginner
+497,Specialization,4.6,2100,False,False,Beginner
+498,Course,4.7,410,False,True,Beginner
+499,Specialization,4.7,4400,False,False,Beginner
+500,Specialization,4.6,5100,False,False,Beginner
+501,Course,4.5,29000,False,False,Beginner
+502,Course,4.4,728,False,False,Beginner
+503,Specialization,4.8,1400,False,False,Beginner
+504,Course,4.8,1200,False,False,Beginner
+505,Course,4.8,1800,False,False,Beginner
+506,Course,4.8,42,False,False,Intermediate
+507,Specialization,4.6,1500,False,False,Advanced
+508,Professional Certificate,4.7,161,False,False,Beginner
+509,Specialization,4.6,473,False,False,Beginner
+510,Course,4.8,4600,False,False,Beginner
+511,Specialization,4.8,4700,False,False,Beginner
+512,Specialization,4.6,3800,False,False,Beginner
+513,Specialization,4.6,83,False,False,Beginner
+514,Specialization,4.7,17000,False,False,Beginner
+515,Course,4.9,6100,False,False,Beginner
+516,Course,4.9,5400,False,False,Beginner
+517,Specialization,4.6,636,False,False,Beginner
+518,Specialization,4.7,9200,False,False,Intermediate
+519,Course,4.8,503,False,False,Beginner
+520,Course,4.6,1300,False,True,Advanced
+521,Specialization,4.6,105,False,False,Intermediate
+522,Course,4.8,4700,False,False,Mixed
+523,Course,4.7,79,False,False,Beginner
+524,Professional Certificate,5.0,11,False,False,Intermediate
+525,Specialization,4.7,136,False,False,Beginner
+526,Course,4.9,2500,False,False,Mixed
+527,Specialization,4.5,278,False,False,Beginner
+528,Professional Certificate,4.4,502,False,True,Beginner
+529,Course,4.9,1600,False,False,Beginner
+530,Course,4.5,4400,False,False,Intermediate
+531,Specialization,4.7,406,False,False,Beginner
+532,Specialization,4.2,67,False,False,Beginner
+533,Specialization,4.5,7000,False,False,Intermediate
+534,Course,4.8,2500,False,False,Beginner
+535,Specialization,4.7,311,False,False,Intermediate
+536,Professional Certificate,4.6,21,False,False,Beginner
+537,Course,4.6,2100,False,False,Mixed
+538,Specialization,4.5,877,False,True,Beginner
+539,Specialization,4.7,3600,False,False,Beginner
+540,Course,4.8,5200,False,False,Mixed
+541,Specialization,4.5,249,False,False,Intermediate
+542,Specialization,4.6,1800,False,False,Beginner
+543,Specialization,4.8,3200,False,False,Beginner
+544,Specialization,4.5,129,False,False,Beginner
+545,Professional Certificate,4.8,4800,False,False,Beginner
+546,Course,4.6,1500,False,False,Mixed
+547,Course,4.7,2000,False,False,Intermediate
+548,Course,4.2,3800,False,False,Mixed
+549,Specialization,4.8,2900,False,False,Intermediate
+550,Specialization,4.7,2500,False,False,Beginner
+551,Specialization,4.8,115,False,False,Intermediate
+552,Specialization,4.6,1700,False,False,Beginner
+553,Specialization,4.6,3600,False,False,Beginner
+554,Course,4.8,2500,False,False,Beginner
+555,Course,4.7,305,False,False,Intermediate
+556,Specialization,4.8,2000,False,False,Beginner
+557,Course,4.8,5600,False,False,Beginner
+558,Course,4.7,1300,False,False,Intermediate
+559,Specialization,4.7,2600,False,False,Beginner
+560,Course,4.7,4600,False,False,Beginner
+561,Specialization,4.8,862,False,False,Beginner
+562,Course,4.7,17000,False,False,Intermediate
+563,Specialization,4.9,4200,False,False,Beginner
+564,Specialization,2.8,124,False,False,Intermediate
+565,Course,4.7,3300,False,False,Beginner
+566,Course,4.7,9400,False,False,Mixed
+567,Course,4.9,7200,False,False,Mixed
+568,Course,4.8,18000,False,False,Beginner
+569,Course,4.9,167,False,False,Intermediate
+570,Course,4.7,4300,False,False,Mixed
+571,Specialization,4.8,39,False,False,Beginner
+572,Specialization,4.6,301,False,False,Beginner
+573,Specialization,4.6,2700,False,True,Intermediate
+574,Course,4.7,5200,False,False,Beginner
+575,Specialization,4.6,2100,False,False,Beginner
+576,Specialization,4.7,530,False,False,Beginner
+577,Course,4.7,6600,False,False,Beginner
+578,Course,4.8,1200,False,False,Mixed
+579,Course,4.8,236,False,False,Beginner
+580,Specialization,4.8,598,False,False,Beginner
+581,Specialization,,0,False,False,Beginner
+582,Course,4.7,584,False,False,Beginner
+583,Specialization,4.7,6500,False,False,Beginner
+584,Course,4.8,715,False,True,Beginner
+585,Specialization,4.7,12000,False,False,Beginner
+586,Course,4.9,2400,False,False,Mixed
+587,Course,4.8,17000,False,False,Mixed
+588,Course,4.8,1900,False,False,Beginner
+589,Professional Certificate,4.6,19,False,False,Beginner
+590,Course,4.7,703,False,False,Advanced
+591,Course,4.8,10000,False,False,Beginner
+592,Course,4.5,258,False,False,Beginner
+593,Specialization,4.5,730,False,False,Beginner
+594,Specialization,4.9,16,False,False,Beginner
+595,Course,4.9,190,False,False,Beginner
+596,Course,4.8,1200,False,True,Intermediate
+597,Specialization,4.8,1800,False,False,Beginner
+598,Course,4.4,4300,False,False,Intermediate
+599,Specialization,4.7,5900,False,False,Beginner
+600,Professional Certificate,4.7,316,False,False,Beginner
+601,Course,4.9,1600,False,False,Mixed
+602,Specialization,4.8,18000,False,False,Beginner
+603,Course,4.4,1100,False,False,Beginner
+604,Specialization,4.7,7400,False,False,Beginner
+605,Specialization,4.1,90,False,False,Intermediate
+606,Professional Certificate,4.3,499,False,False,Intermediate
+607,Course,4.9,1100,False,False,Beginner
+608,Course,4.8,220,False,False,Mixed
+609,Course,4.7,2500,False,False,Beginner
+610,Course,4.8,1400,False,False,Beginner
+611,Specialization,4.7,3200,False,False,Intermediate
+612,Course,4.7,4400,False,False,Beginner
+613,Specialization,4.7,142,False,True,Intermediate
+614,Specialization,4.8,2300,False,False,Intermediate
+615,Specialization,4.7,11000,False,False,Beginner
+616,Course,4.7,560,False,False,Advanced
+617,Course,4.6,697,False,False,Beginner
+618,Specialization,4.6,132,False,False,Beginner
+619,Course,4.8,548,False,False,Mixed
+620,Course,4.7,1700,False,False,Beginner
+621,Course,4.6,249,False,False,Beginner
+622,Professional Certificate,4.6,704,False,False,Beginner
+623,Specialization,4.5,342,False,False,Intermediate
+624,Course,4.7,443,False,False,Beginner
+625,Course,4.6,12000,False,False,Mixed
+626,Course,4.8,6900,False,False,Beginner
+627,Course,4.9,383,False,False,Beginner
+628,Specialization,4.5,4000,False,False,Intermediate
+629,Specialization,4.6,48,False,False,Beginner
+630,Specialization,4.5,8100,False,False,Beginner
+631,Course,4.8,3500,False,False,Beginner
+632,Specialization,4.8,54,False,False,Intermediate
+633,Specialization,4.4,854,False,False,Beginner
+634,Course,4.4,4700,False,False,Beginner
+635,Course,4.8,6000,False,False,Mixed
+636,Specialization,4.7,1500,False,False,Intermediate
+637,Specialization,4.3,461,False,False,Intermediate
+638,Course,4.8,4900,False,False,Intermediate
+639,Course,4.2,1500,False,False,Beginner
+640,Specialization,4.9,175,False,False,Beginner
+641,Course,4.8,9200,False,False,Beginner
+642,Specialization,4.9,39,False,False,Beginner
+643,Specialization,4.7,5000,False,False,Beginner
+644,Course,4.8,11000,False,False,Beginner
+645,Specialization,4.7,984,False,False,Beginner
+646,Course,4.8,595,False,False,Beginner
+647,Course,4.9,4800,False,False,Mixed
+648,Course,4.9,5900,False,False,Mixed
+649,Course,4.7,3900,False,False,Beginner
+650,Course,4.9,3000,False,False,Beginner
+651,Professional Certificate,4.2,18,False,False,Intermediate
+652,Course,4.7,68,False,False,Beginner
+653,Course,4.8,47,False,False,Beginner
+654,Specialization,4.7,1200,False,False,Intermediate
+655,Specialization,4.6,1400,False,False,Beginner
+656,Course,4.7,3400,False,False,Beginner
+657,Specialization,4.6,3400,False,False,Beginner
+658,Professional Certificate,4.5,300,False,False,Beginner
+659,Specialization,4.7,166,False,False,Intermediate
+660,Course,4.9,444,False,False,Beginner
+661,Specialization,4.8,1800,False,False,Intermediate
+662,Specialization,4.6,305,False,False,Beginner
+663,Course,4.8,2700,False,False,Beginner
+664,Course,4.6,245,False,False,Beginner
+665,Specialization,4.8,225,False,True,Beginner
+666,Specialization,4.8,6100,False,False,Beginner
+667,Course,4.6,863,False,False,Mixed
+668,Course,4.6,8000,False,False,Mixed
+669,Course,4.7,230,False,False,Beginner
+670,Course,4.9,36,False,False,Mixed
+671,Course,4.9,100,False,False,Beginner
+672,Specialization,4.7,3700,False,False,Beginner
+673,Specialization,4.6,2500,False,False,Intermediate
+674,Specialization,4.5,760,False,False,Intermediate
+675,Course,4.8,1300,False,False,Mixed
+676,Specialization,4.2,91,False,False,Beginner
+677,Course,4.9,48,False,False,Beginner
+678,Course,4.4,2700,False,False,Beginner
+679,Course,4.8,3100,False,False,Beginner
+680,Course,4.8,620,False,False,Beginner
+681,Specialization,4.6,2100,False,False,Beginner
+682,Course,4.2,572,False,False,Beginner
+683,Specialization,4.7,2000,False,False,Beginner
+684,Course,4.8,20000,False,False,Mixed
+685,Specialization,4.7,5000,False,True,Intermediate
+686,Course,4.6,274,False,False,Beginner
+687,Professional Certificate,,0,False,False,Beginner
+688,Specialization,4.3,897,False,False,Intermediate
+689,Course,4.7,153,False,False,Beginner
+690,Specialization,,0,False,False,Beginner
+691,Course,4.8,966,False,False,Beginner
+692,Specialization,4.8,1700,False,False,Beginner
+693,Specialization,4.5,1500,False,False,Advanced
+694,Course,4.6,6100,False,False,Beginner
+695,Specialization,4.7,20000,False,False,Beginner
+696,Course,4.6,505,False,False,Beginner
+697,Specialization,4.7,2100,False,False,Beginner
+698,Course,4.7,1800,False,False,Intermediate
+699,Specialization,4.7,3700,False,False,Intermediate
+700,Course,4.7,2400,False,False,Beginner
+701,Course,4.7,48000,False,False,Beginner
+702,Specialization,4.7,173,False,False,Beginner
+703,Course,4.9,2500,False,False,Beginner
+704,Specialization,4.8,549,False,False,Beginner
+705,Specialization,4.5,2200,False,False,Beginner
+706,Course,4.7,1800,False,False,Beginner
+707,Course,4.8,5300,False,False,Intermediate
+708,Specialization,4.8,2000,False,False,Beginner
+709,Course,4.8,3400,False,False,Mixed
+710,Specialization,4.7,148,False,False,Beginner
+711,Specialization,4.8,3400,False,False,Beginner
+712,Course,4.6,163,False,False,Beginner
+713,Specialization,4.4,305,False,True,Intermediate
+714,Specialization,4.8,74,False,False,Beginner
+715,Course,4.6,3400,False,False,Beginner
+716,Specialization,4.8,136,False,False,Beginner
+717,Specialization,4.8,4100,False,False,Beginner
+718,Course,4.8,888,False,False,Beginner
+719,Specialization,4.7,5000,False,False,Intermediate
+720,Course,4.8,268,False,False,Beginner
+721,Course,4.8,2500,False,False,Beginner
+722,Course,4.7,8200,False,False,Intermediate
+723,Specialization,4.7,284,False,False,Intermediate
+724,Course,4.7,1400,False,False,Beginner
+725,Specialization,4.7,11,False,False,Beginner
+726,Course,4.9,2100,False,False,Beginner
+727,Course,4.9,595,False,False,Beginner
+728,Course,4.5,921,False,False,Intermediate
+729,Specialization,4.8,869,False,False,Beginner
+730,Course,4.6,21000,False,False,Beginner
+731,Specialization,4.8,3200,False,False,Beginner
+732,Course,4.8,3200,False,False,Beginner
+733,Course,4.8,4300,False,False,Mixed
+734,Course,4.8,14,False,False,Beginner
+735,Professional Certificate,4.5,235,False,False,Intermediate
+736,Specialization,4.7,4200,False,True,Intermediate
+737,Course,4.7,12000,False,False,Beginner
+738,Course,4.7,414,False,False,Beginner
+739,Course,4.8,6600,False,False,Mixed
+740,Professional Certificate,4.7,13,False,False,Beginner
+741,Course,4.8,608,False,False,Beginner
+742,Course,4.7,1600,False,False,Mixed
+743,Course,4.7,755,False,False,Beginner
+744,Specialization,4.5,1100,False,False,Beginner
+745,Course,4.7,3700,False,False,Beginner
+746,Specialization,4.7,1100,False,True,Beginner
+747,Course,4.8,77,False,True,Intermediate
+748,Specialization,4.7,2300,False,False,Beginner
+749,Course,4.3,233,False,False,Beginner
+750,Course,4.8,382,False,False,Beginner
+751,Course,4.6,338,False,False,Beginner
+752,Course,4.8,1400,False,False,Beginner
+753,Course,4.9,2000,False,False,Beginner
+754,Course,4.7,300,False,False,Beginner
+755,Specialization,3.7,801,False,False,Intermediate
+756,Specialization,4.6,3200,False,False,Beginner
+757,Course,4.7,1600,False,False,Beginner
+758,Course,3.9,27,False,False,Beginner
+759,Course,4.4,72,False,False,Intermediate
+760,Course,4.7,85,False,False,Beginner
+761,Specialization,4.6,1200,False,False,Beginner
+762,Course,4.7,3000,False,False,Intermediate
+763,Course,4.7,38,False,False,Intermediate
+764,Course,4.8,3800,False,False,Beginner
+765,Course,4.7,506,False,False,Intermediate
+766,Specialization,4.8,1300,False,False,Beginner
+767,Specialization,3.9,158,False,False,Beginner
+768,Course,4.7,1700,False,False,Intermediate
+769,Course,4.8,1900,False,False,Beginner
+770,Course,4.6,1300,False,False,Beginner
+771,Specialization,4.7,197,False,True,Intermediate
+772,Course,4.6,248,False,False,Intermediate
+773,Course,4.8,679,False,False,Advanced
+774,Course,4.8,1400,False,False,Beginner
+775,Specialization,4.9,17,False,False,Beginner
+776,Specialization,4.7,7200,False,False,Intermediate
+777,Specialization,4.8,2700,False,False,Beginner
+778,Course,4.5,2000,False,False,Mixed
+779,Specialization,4.6,1100,False,False,Beginner
+780,Course,4.9,1600,False,False,Beginner
+781,Course,4.6,926,False,False,Mixed
+782,Course,4.6,713,False,False,Beginner
+783,Course,4.9,5200,False,False,Mixed
+784,Specialization,4.6,314,False,False,Beginner
+785,Course,4.6,6800,False,False,Beginner
+786,Course,4.7,7900,False,False,Beginner
+787,Course,4.7,3000,False,False,Mixed
+788,Course,4.7,6400,False,False,Beginner
+789,Specialization,4.7,2800,False,False,Intermediate
+790,Professional Certificate,4.9,4000,False,False,Beginner
+791,Course,4.6,1100,False,False,Beginner
+792,Course,4.9,1200,False,False,Beginner
+793,Course,4.7,223,False,False,Mixed
+794,Professional Certificate,4.9,2500,False,False,Beginner
+795,Course,4.7,601,False,True,Intermediate
+796,Course,4.7,2100,False,False,Beginner
+797,Course,4.7,2100,False,False,Beginner
+798,Course,4.7,4800,False,False,Mixed
+799,Course,4.8,600,False,False,Mixed
+800,Specialization,4.7,3900,False,False,Beginner
+801,Specialization,4.6,657,False,True,Intermediate
+802,Specialization,4.6,56,False,False,Beginner
+803,Course,4.7,452,False,False,Beginner
+804,Course,4.7,411,False,False,Intermediate
+805,Specialization,4.5,6100,False,False,Beginner
+806,Specialization,4.6,2700,False,False,Beginner
+807,Course,4.8,929,False,False,Advanced
+808,Course,4.8,5700,False,False,Beginner
+809,Course,4.6,767,False,False,Intermediate
+810,Course,4.8,3100,False,False,Beginner
+811,Course,4.8,976,False,False,Beginner
+812,Specialization,4.3,306,False,False,Advanced
+813,Specialization,4.7,11000,False,False,Intermediate
+814,Specialization,4.6,1000,False,False,Beginner
+815,Specialization,4.6,14000,False,False,Beginner
+816,Specialization,4.8,670,False,False,Beginner
+817,Specialization,4.8,421,False,False,Advanced
+818,Course,4.7,2000,False,False,Intermediate
+819,Course,4.3,8,False,False,Beginner
+820,Course,4.5,12000,False,False,Intermediate
+821,Course,4.7,2200,False,False,Beginner
+822,Course,4.5,282,False,False,Beginner
+823,Course,4.7,666,False,False,Advanced
+824,Specialization,4.5,2500,False,False,Beginner
+825,Course,4.6,139,False,False,Intermediate
+826,Course,4.7,1500,False,False,Mixed
+827,Specialization,4.8,2800,False,False,Beginner
+828,Specialization,4.7,2500,False,False,Intermediate
+829,Specialization,4.7,157,False,False,Beginner
+830,Specialization,4.6,629,False,False,Beginner
+831,Course,4.8,269,False,False,Intermediate
+832,Course,4.8,44000,False,False,Beginner
+833,Course,4.5,30,False,False,Intermediate
+834,Course,4.7,2100,False,False,Intermediate
+835,Course,4.8,1700,False,False,Mixed
+836,Course,4.7,4600,False,False,Mixed
+837,Specialization,4.7,836,False,True,Intermediate
+838,Professional Certificate,4.7,205,False,False,Beginner
+839,Course,4.7,1300,False,False,Beginner
+840,Professional Certificate,4.6,82,False,False,Beginner
+841,Course,4.9,580,False,False,Beginner
+842,Course,4.6,568,False,False,Beginner
+843,Professional Certificate,4.7,190,False,False,Beginner
+844,Specialization,4.7,320,False,False,Beginner
+845,Course,4.8,3400,False,False,Beginner
+846,Course,4.8,2500,False,False,Beginner
+847,Specialization,4.6,2800,False,False,Intermediate
+848,Specialization,4.6,929,False,False,Beginner
+849,Specialization,4.6,96,False,False,Intermediate
+850,Course,4.8,2400,False,False,Beginner
+851,Course,,0,False,False,Beginner
+852,Course,4.5,491,False,False,Beginner
+853,Course,4.5,8500,False,False,Beginner
+854,Professional Certificate,4.8,3400,False,True,Beginner
+855,Specialization,4.6,7300,False,False,Beginner
+856,Specialization,4.7,1100,False,False,Beginner
+857,Course,4.6,10000,False,False,Beginner
+858,Course,4.8,18000,False,False,Beginner
+859,Specialization,4.7,4000,False,False,Beginner
+860,Course,4.9,981,False,False,Advanced
+861,Course,4.5,938,False,False,Beginner
+862,Course,4.7,459,False,False,Advanced
+863,Course,4.8,2000,False,False,Mixed
+864,Specialization,4.6,67,False,False,Beginner
+865,Specialization,4.6,777,False,False,Beginner
+866,Course,,0,False,False,Beginner
+867,Course,4.9,757,False,False,Mixed
+868,Professional Certificate,4.7,259,False,False,Beginner
+869,Course,4.7,109,False,False,Beginner
+870,Course,4.7,1200,False,False,Beginner
+871,Course,4.8,3100,False,False,Beginner
+872,Specialization,,0,False,False,Beginner
+873,Specialization,4.7,327,False,False,Beginner
+874,Specialization,,0,False,False,Intermediate
+875,Course,4.8,1900,False,False,Beginner
+876,Course,4.7,5400,False,False,Beginner
+877,Specialization,4.8,4000,False,True,Beginner
+878,Course,4.5,323,False,False,Intermediate
+879,Course,4.7,2100,False,False,Intermediate
+880,Specialization,4.8,79,False,False,Advanced
+881,Course,4.3,1300,False,False,Beginner
+882,Course,4.6,6500,False,False,Intermediate
+883,Specialization,4.2,19,False,False,Beginner
+884,Specialization,4.6,164,False,False,Intermediate
+885,Course,4.8,2200,False,False,Intermediate
+886,Course,4.8,556,False,False,Beginner
+887,Course,4.7,64,False,False,Mixed
+888,Course,4.8,677,False,False,Mixed
+889,Course,4.9,3600,False,False,Beginner
+890,Course,4.6,409,False,False,Beginner
+891,Specialization,4.6,1000,False,True,Beginner
+892,Course,4.6,1400,False,False,Beginner
+893,Course,4.7,5100,False,False,Intermediate
+894,Course,4.8,3000,False,False,Beginner
+895,Course,4.6,325,False,False,Beginner
+896,Course,4.8,247,False,False,Beginner
+897,Course,4.8,439,False,False,Advanced
+898,Course,4.8,2800,False,False,Mixed
+899,Professional Certificate,4.6,163,False,False,Beginner
+900,Course,4.7,7200,False,False,Mixed
+901,Course,4.8,2100,False,False,Beginner
+902,Course,4.3,149,False,False,Mixed
+903,Professional Certificate,4.8,387,False,True,Intermediate
+904,Specialization,4.4,1400,False,False,Beginner
+905,Specialization,4.8,295,False,False,Intermediate
+906,Specialization,4.6,110,False,False,Beginner
+907,Specialization,4.8,110,False,False,Beginner
+908,Specialization,4.6,2400,False,False,Beginner
+909,Specialization,4.8,2900,False,False,Beginner
+910,Course,4.8,299,False,False,Intermediate
+911,Course,4.6,6000,False,False,Mixed
+912,Course,4.8,744,False,False,Beginner
+913,Specialization,4.7,870,False,False,Beginner
+914,Course,4.6,573,False,False,Beginner
+915,Course,4.6,995,False,False,Mixed
+916,Course,4.6,1300,False,False,Beginner
+917,Course,4.9,3100,False,False,Beginner
+918,Course,4.7,242,False,False,Beginner
+919,Course,4.7,1700,False,True,Beginner
+920,Course,4.8,10000,False,False,Mixed
+921,Course,4.8,893,False,False,Beginner
+922,Course,4.9,88,False,False,Beginner
+923,Course,4.7,5900,False,False,Mixed
+924,Specialization,4.6,471,False,False,Beginner
+925,Course,4.7,186,False,False,Beginner
+926,Course,4.9,17000,False,False,Intermediate
+927,Course,4.7,558,False,False,Intermediate
+928,Course,4.7,2900,False,False,Advanced
+929,Course,4.7,3000,False,False,Intermediate
+930,Course,4.9,2100,False,False,Mixed
+931,Course,4.7,5100,False,False,Mixed
+932,Course,4.7,1100,False,False,Beginner
+933,Course,4.8,2800,False,False,Intermediate
+934,Course,4.8,1400,False,False,Mixed
+935,Specialization,4.8,2600,False,False,Beginner
+936,Course,4.8,1800,False,False,Intermediate
+937,Course,4.9,2200,False,False,Beginner
+938,Course,4.7,3600,False,False,Intermediate
+939,Course,4.6,1300,False,False,Intermediate
+940,Course,4.8,244,False,False,Beginner
+941,Course,4.8,43,False,False,Beginner
+942,Course,4.6,211,False,False,Beginner
+943,Specialization,4.7,9500,False,False,Intermediate
+944,Course,4.8,2600,False,False,Mixed
+945,Course,,0,False,False,Beginner
+946,Course,4.8,767,False,False,Mixed
+947,Course,4.8,1600,False,False,Beginner
+948,Course,4.7,417,False,False,Beginner
+949,Course,4.7,2900,False,False,Beginner
+950,Course,4.5,47,False,False,Intermediate
+951,Course,4.7,450,False,False,Beginner
+952,Specialization,3.9,607,False,False,Beginner
+953,Course,4.4,1000,False,False,Intermediate
+954,Course,4.4,126,False,False,Intermediate
+955,Specialization,4.6,365,False,False,Intermediate
+956,Professional Certificate,4.9,7200,False,False,Beginner
+957,Course,4.7,46,False,False,Beginner
+958,Course,4.7,951,False,False,Beginner
+959,Course,4.7,159,False,False,Beginner
+960,Course,4.8,1200,False,False,Mixed
+961,Course,4.7,8900,False,False,Beginner
+962,Course,4.8,421,False,False,Beginner
+963,Specialization,4.6,216,False,False,Beginner
+964,Course,4.6,129,False,False,Intermediate
+965,Course,4.8,4600,False,False,Beginner
+966,Course,4.8,592,False,False,Beginner
+967,Course,4.6,1500,False,False,Mixed
+968,Specialization,4.7,838,False,False,Beginner
+969,Course,4.5,12000,False,False,Beginner
+970,Course,,0,False,False,Intermediate
+971,Course,4.6,617,False,False,Beginner
+972,Specialization,4.4,7100,False,False,Intermediate
+973,Course,4.8,1400,False,False,Beginner
+974,Course,4.3,50,False,False,Beginner
+975,Specialization,4.3,14,False,False,Advanced
+976,Specialization,4.7,38,False,False,Beginner
+977,Course,4.7,5700,False,False,Beginner
+978,Specialization,4.7,370,False,False,Beginner
+979,Specialization,4.6,4700,False,False,Beginner
+980,Course,4.5,220,False,False,Beginner
+981,Course,4.6,94,False,False,Beginner
+982,Specialization,4.6,1800,False,False,Intermediate
+983,Course,4.7,76,False,False,Mixed
+984,Course,4.3,93,False,False,Beginner
+985,Specialization,4.6,565,False,False,Intermediate
+986,Specialization,4.4,454,False,False,Intermediate
+987,Specialization,4.5,43,False,False,Beginner
+988,Course,4.5,250,False,False,Beginner
+989,Course,4.9,400,False,False,Beginner
+990,Specialization,4.8,98,False,False,Beginner
+991,Course,4.0,854,False,False,Intermediate
+992,Course,,0,False,False,Intermediate
+993,Course,4.8,2400,False,False,Mixed
+994,Course,4.5,1100,False,False,Intermediate
+995,Specialization,4.8,56,False,False,Beginner
+996,Course,4.7,535,False,False,Beginner
+997,Specialization,4.5,1400,False,False,Beginner
+998,Course,4.5,347,False,False,Beginner
+999,Specialization,4.8,9,False,False,Intermediate
+1000,Specialization,4.6,353,False,False,Beginner
+1001,Course,4.7,1700,False,False,Beginner
+1002,Course,4.8,393,False,True,Beginner
+1003,Professional Certificate,4.9,18000,False,False,Beginner
+1004,Course,4.8,620,False,False,Beginner
+1005,Guided Project,4.7,163,False,False,Beginner
+1006,Course,4.7,840,False,False,Beginner
+1007,Specialization,4.7,7400,False,False,Beginner
+1008,Specialization,4.4,2400,False,False,Intermediate

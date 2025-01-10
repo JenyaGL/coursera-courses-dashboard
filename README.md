@@ -4,6 +4,7 @@ This Project is about analyzing E-learning Courses from coursera.
 it consist of 3 stages:
 -  scraping the data using python and requests library.
 -  pre-processing the data with pandas, seperating tables and files before uploading it unto PostgreSQL server.
+-  Creating relationships between the tabels and visualizing the schema.
 -  Visualising the data on PowerBI. 
 
 database schema

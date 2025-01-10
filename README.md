@@ -13,8 +13,6 @@ https://dbdiagram.io/d/coursera_database-677686915406798ef71b7083
 
 Power BI Dashboard:
 
-PowerBi - https://omgstudios-my.sharepoint.com/:u:/g/personal/jenya_g_frontstory_com/Ef4BK4yRZsFEml4Ue8rBtQwB1ppnQz-YOcKCHK-2wN5PpA?e=7bjETg
-
 Drive: https://drive.google.com/file/d/128poTMO5eo-3314zp3sHSnAMoDH29m40/view?usp=drive_link
 
 PDF - https://drive.google.com/file/d/1ynrnBUqU2CmOYdhFjEr9BCx4TbHO4Mbv/view?usp=sharing
